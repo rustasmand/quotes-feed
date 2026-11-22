@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-22T20:08:43.950466+00:00",
+  "updated_at": "2026-11-22T20:37:16.579294+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -24,580 +24,220 @@
   ],
   "quotes": [
     {
-      "id": "tg_uboiny_yumor_59878",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3743,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59878.jpg"
-      ],
-      "original_url": "https://t.meYumor/59878",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59861",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 5215,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59861.jpg"
-      ],
-      "original_url": "https://t.meYumor/59861",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_23_4322",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "ххх: Интересно, а на огонь есть какие-то авторские права?\nууу: Ага, Прометея уже подвели под статью за пиратство.",
-      "rating": 3,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59866",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4277,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59866.jpg"
-      ],
-      "original_url": "https://t.meYumor/59866",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_1_3180",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Чичиков, изнывая от безделья, принялся скупать мертвые аккаунты в сети, чтобы раздуть свой инстаграм. Теперь он мечтал прослыть звездой интернета и кормиться с руки столичной администрации, выполняя заказы на \"продвижение важных идей\".",
-      "rating": 18,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59879",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3920,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59879.jpg"
-      ],
-      "original_url": "https://t.meYumor/59879",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59887",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 2260,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59887.jpg"
-      ],
-      "original_url": "https://t.meYumor/59887",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59890",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 313,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59890.jpg"
-      ],
-      "original_url": "https://t.meYumor/59890",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_17_6853",
+      "id": "ibash_17_1629",
       "source_id": "ibash",
       "type": "text",
       "content": "Утренник в садике, на сцене — воспитательницы.\nЕстественно, кто бы мог подумать, пора звать Деда Мороза! Выходит он, весь при параде: халат, шапка, борода, посох. И такой, значит, спрашивает:\n— Дети, а кто я такой?\nДети хором:\n— Ирина Анатольевна!",
       "rating": 7,
       "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     },
     {
-      "id": "tg_uboiny_yumor_59874",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4609,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59874.jpg"
-      ],
-      "original_url": "https://t.meYumor/59874",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59865",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4274,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59865.jpg"
-      ],
-      "original_url": "https://t.meYumor/59865",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59886",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 2294,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59886.jpg"
-      ],
-      "original_url": "https://t.meYumor/59886",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59880",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3805,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59880.jpg"
-      ],
-      "original_url": "https://t.meYumor/59880",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_61_2618",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Наш клан в ММО затеял в реале сходку, 16 душ из одного города. А наш зам, Gulag, припер свою мазню – холст метр на полтора. На нем Архип, наш вечно глючащий парень, в припадке ярости громит клаву головой. Подписано: \"Архип и Лаг\". Вот такое вот искусство в подарок.",
-      "rating": 2,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_39_3708",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Удивительная картина маслом: бреду по деревне, вижу чудо отечественного автопрома, обутое в летнюю \"обувь\" (ну, вы понимаете). За рулём – какой-то алконавт, явно собирается покорять просторы. А у распахнутой двери – бабуля, крестит его и бормочет: \"Чтоб дорога была гладкая, как ляжка младенца!\" Ну, цирк, ё-моё.",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_71_6476",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Врач: Так-с, выписала вам вот это вот \"что-то-от-чего-то\", \"для-того-чтобы-стало-лучше\" и, конечно, активированный уголь! Вы \"что-то-от-чего-то\" принимаете?\nЯ (на автомате): А то! Пью верой и правдой, как доктор прописал...\nВ: Это ж уколы были! 😳",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59868",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4615,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59868.jpg"
-      ],
-      "original_url": "https://t.meYumor/59868",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59863",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4710,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59863.jpg"
-      ],
-      "original_url": "https://t.meYumor/59863",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_79_8709",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "У вас там уже осенний озноб, или просто прохладно?",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59864",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4312,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59864.jpg"
-      ],
-      "original_url": "https://t.meYumor/59864",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_15_9920",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "– Ну что, сколько там в жиме лежа давишь?\n– Около двух сотен.\n– Вот это силач! А по виду и не скажешь.\n– Так это за всю неделю, понемногу.",
-      "rating": 5,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59862",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4662,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59862.jpg"
-      ],
-      "original_url": "https://t.meYumor/59862",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59889",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 756,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59889.jpg"
-      ],
-      "original_url": "https://t.meYumor/59889",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59867",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4395,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59867.jpg"
-      ],
-      "original_url": "https://t.meYumor/59867",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59881",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3847,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59881.jpg"
-      ],
-      "original_url": "https://t.meYumor/59881",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59882",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3319,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59882.jpg"
-      ],
-      "original_url": "https://t.meYumor/59882",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_11_4321",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Перевод часов обратно? Знаете, это так напоминает мне наших любимых разработчиков игр. Те, которые вроде как что-то там переделают, а потом, когда все уже привыкли и потратили кучу времени и сил на адаптацию, вдруг такие: 'А давайте всё вернем как было!",
-      "rating": 4,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_9_6794",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Короче, надо было в клубе с нуля всю проводку тянуть, а там темнота, как у негра в заднице. Электрики, надо сказать, были профи, реально шарили. Я им так, мол, вот вам фронт работ, нарисуйте цену, сколько скажете – сразу отдам. А они мне такие: \"Увольте, тут работы как минимум на год, мы в такое не вписываемся\".",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59883",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 2584,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59883.jpg"
-      ],
-      "original_url": "https://t.meYumor/59883",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_27_1974",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Instagram, значит, выдает фото: туманное поле, в центре – лошадь. Подпись, естественно, на английском, полная пафоса и глубокомысленных рассуждений о сущности табунов. И под этим всем – море восторженных комментариев: \"Как изящно!\", \"Какая мудрость!\", \"Настоящая философия!\". И тут, как вишенка на торте, один русский комментарий: \"Ой, ёжик!\".",
-      "rating": 3,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_31_1042",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "xxx: Слушай, а сколько эта игрушка весит, примерно?\nyyy: Ну, гигов десять, наверное.\nxxx: Ого. А с торрентов долго будет качаться?\nyyy: Ага, долго.\nxxx: Тогда, может, ты мне её на почту закинешь?",
-      "rating": 4,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_13_6127",
+      "id": "ibash_13_2185",
       "source_id": "ibash",
       "type": "text",
       "content": "Препод: Собственный класс, знаешь, что это такое и когда он нам пригодится?\nСтудент: Ну, это такое хитрое множество, которое само по себе — не часть никакого другого множества. Это как бы наш способ избежать путаницы в старых теорийках.\nПрепод: Ладно, давай, приведи пару примеров.\nСтудент: Эээ... Тут загвоздка. Если я приведу пример, он сразу станет \"частью\" нашего разговора, то есть элементом. А первый же принцип этого вашего класса — \"ни за что не быть элементом\"! Так что, никак.",
       "rating": 5,
       "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     },
     {
-      "id": "tg_uboiny_yumor_59876",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3614,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59876.jpg"
-      ],
-      "original_url": "https://t.meYumor/59876",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_21_7722",
+      "id": "ibash_39_9829",
       "source_id": "ibash",
       "type": "text",
-      "content": "xxx: Купили самую огромную кровать, 180 на 210. Думали, там полкоманды уместится. И вот почему, мать его, нам сейчас на ней места не хватает?\nyyy: Наверное, у вас есть коты?",
-      "rating": 12,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_33_4311",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "xxx: Сегодня в школе какой-то батюшка объявился.\nxxx: Видать, пришли детей в вере укрепить.\nxxx: А тут такое дело – малышня с криками \"Дай баф на выносливость!\" за ним понеслась.",
-      "rating": 4,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59870",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4705,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59870.jpg"
-      ],
-      "original_url": "https://t.meYumor/59870",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59884",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 2955,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59884.jpg"
-      ],
-      "original_url": "https://t.meYumor/59884",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59875",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4637,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59875.jpg"
-      ],
-      "original_url": "https://t.meYumor/59875",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59873",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4286,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59873.jpg"
-      ],
-      "original_url": "https://t.meYumor/59873",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "tg_uboiny_yumor_59877",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3331,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59877.jpg"
-      ],
-      "original_url": "https://t.meYumor/59877",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_29_6199",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "xxx:\nБыл у меня один кавалер, который заезжал по вечерам, опустошал холодильник, ночевал, утром доедал остатки и сливался. Так и ездил, пару раз в неделю. Я, честно говоря, не парилась, только вот продукты таскать потом становилось влом. И вот как-то в субботу проснулась, говорю ему: \"Слушай, дорогой, пойдем вместе на рынок, затариться на неделю, мне одной тяжеловато\". Он такой: \"Без проблем! Только мне сейчас срочно надо одно дельце провернуть, через пару часов буду, и пойдем\". Больше я его, конечно, не видела.",
-      "rating": 1,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_41_9106",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Мы, как небо и земля, а всё равно по уши вляпались.",
+      "content": "Удивительная картина маслом: бреду по деревне, вижу чудо отечественного автопрома, обутое в летнюю \"обувь\" (ну, вы понимаете). За рулём – какой-то алконавт, явно собирается покорять просторы. А у распахнутой двери – бабуля, крестит его и бормочет: \"Чтоб дорога была гладкая, как ляжка младенца!\" Ну, цирк, ё-моё.",
       "rating": 0,
       "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     },
     {
-      "id": "ibash_7_1850",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "ххх: Я всё никак не угомонюсь, глядя на этих фанатов старинных картинок, где нарисовали каких-то \"динозавров\".\nххх: Ну, вы даете!\nххх: Серьезно, существа на рисунках больше на динозавров смахивают, чем на верблюдов?\nххх: Да уж, средневековые книжки с картинками — отдельная песня.\nххх: Там, порой, такое нарисуют: будто Ктулху на полном отлете из уклейки себе костюм сварганил.\nххх: А подпись — \"Осьминог\".",
-      "rating": 2,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59888",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 2274,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59888.jpg"
-      ],
-      "original_url": "https://t.meYumor/59888",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_25_3436",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "xxx: Эти наши ЖКХ, ей-богу, похоже, специально выжидают, когда на улице льет как из ведра и мороз трещит, чтобы тут же вырубить нам горячую воду и батареи. Прям закон подлости какой-то!",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_35_1055",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "xxx: Вот и мои хоромы!\nyyy: Учитывая, что \"хоромы\" эти на девятом этаже, а лифт сдох, это скорее орлиное гнездо, куда забираться – подвиг.",
-      "rating": 2,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59869",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 4455,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59869.jpg"
-      ],
-      "original_url": "https://t.meYumor/59869",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_43_6658",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Два заядлых геймера заявились за 22-дюймовым монитором Samsung. Начали, понятное дело, копаться в пикселях. Нашли один битый, прямо по центру. Ну, ради прикола решили проверить, точно ли он там, перезагрузили комп. И тут – вот те на! – стрелка курсора легка и непринужденно указывает точно на эту бяку. Парни чуть с ума не сошли от восторга, мол, теперь в \"Контру\" и прочую чушь рубиться – одно удовольствие! Готовы были меня на руках носить, честное слово!",
-      "rating": 4,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_37_8396",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Гром: Пришла мне тут в голову одна история, как сынок одного очень богатого папаши звонит и верещит: \"Папка, срочно на Южный полюс партию белых медведей закинь, я в географии полный ноль!\"\nLynx: И что, это всё из-за новых правил? )\nГром: Ну да...\nГром: Похоже, кто-то на экзамене по жизни провалился.",
-      "rating": 0,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "tg_uboiny_yumor_59872",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3757,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59872.jpg"
-      ],
-      "original_url": "https://t.meYumor/59872",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
-    },
-    {
-      "id": "ibash_67_6862",
-      "source_id": "ibash",
-      "type": "text",
-      "content": "Открыл я этот трудовой договор, листаю, значит, и натыкаюсь на пункт:\n\"2.1. То, что ты делаешь, называется работой.\"\nЯ аж завис.",
-      "rating": 5,
-      "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
-    },
-    {
-      "id": "ibash_0_8406",
+      "id": "ibash_1_6089",
       "source_id": "ibash",
       "type": "text",
       "content": "Чичиков, изнывая от безделья, принялся скупать мертвые аккаунты в сети, чтобы раздуть свой инстаграм. Теперь он мечтал прослыть звездой интернета и кормиться с руки столичной администрации, выполняя заказы на \"продвижение важных идей\".",
       "rating": 18,
       "original_url": "https://ibash.org.ru",
-      "added_at": "2026-11-22T20:08:43.950466+00:00"
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     },
     {
-      "id": "tg_uboiny_yumor_59885",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3154,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59885.jpg"
-      ],
-      "original_url": "https://t.meYumor/59885",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
+      "id": "ibash_15_3951",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "– Ну что, сколько там в жиме лежа давишь?\n– Около двух сотен.\n– Вот это силач! А по виду и не скажешь.\n– Так это за всю неделю, понемногу.",
+      "rating": 5,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     },
     {
-      "id": "tg_uboiny_yumor_59871",
-      "source_id": "tg_uboiny_yumor",
-      "content": "",
-      "rating": 3762,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59871.jpg"
-      ],
-      "original_url": "https://t.meYumor/59871",
-      "added_at": "2026-11-22T20:08:43.950466+00:00",
-      "type": "image"
+      "id": "ibash_23_7172",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "ххх: Интересно, а на огонь есть какие-то авторские права?\nууу: Ага, Прометея уже подвели под статью за пиратство.",
+      "rating": 3,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_11_9324",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Перевод часов обратно? Знаете, это так напоминает мне наших любимых разработчиков игр. Те, которые вроде как что-то там переделают, а потом, когда все уже привыкли и потратили кучу времени и сил на адаптацию, вдруг такие: 'А давайте всё вернем как было!",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_7_4638",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "ххх: Я всё никак не угомонюсь, глядя на этих фанатов старинных картинок, где нарисовали каких-то \"динозавров\".\nххх: Ну, вы даете!\nххх: Серьезно, существа на рисунках больше на динозавров смахивают, чем на верблюдов?\nххх: Да уж, средневековые книжки с картинками — отдельная песня.\nххх: Там, порой, такое нарисуют: будто Ктулху на полном отлете из уклейки себе костюм сварганил.\nххх: А подпись — \"Осьминог\".",
+      "rating": 2,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_33_2976",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Сегодня в школе какой-то батюшка объявился.\nxxx: Видать, пришли детей в вере укрепить.\nxxx: А тут такое дело – малышня с криками \"Дай баф на выносливость!\" за ним понеслась.",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_79_8901",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "У вас там уже осенний озноб, или просто прохладно?",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_67_1055",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Открыл я этот трудовой договор, листаю, значит, и натыкаюсь на пункт:\n\"2.1. То, что ты делаешь, называется работой.\"\nЯ аж завис.",
+      "rating": 5,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_35_8222",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Вот и мои хоромы!\nyyy: Учитывая, что \"хоромы\" эти на девятом этаже, а лифт сдох, это скорее орлиное гнездо, куда забираться – подвиг.",
+      "rating": 2,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_43_4949",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Два заядлых геймера заявились за 22-дюймовым монитором Samsung. Начали, понятное дело, копаться в пикселях. Нашли один битый, прямо по центру. Ну, ради прикола решили проверить, точно ли он там, перезагрузили комп. И тут – вот те на! – стрелка курсора легка и непринужденно указывает точно на эту бяку. Парни чуть с ума не сошли от восторга, мол, теперь в \"Контру\" и прочую чушь рубиться – одно удовольствие! Готовы были меня на руках носить, честное слово!",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_31_1024",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Слушай, а сколько эта игрушка весит, примерно?\nyyy: Ну, гигов десять, наверное.\nxxx: Ого. А с торрентов долго будет качаться?\nyyy: Ага, долго.\nxxx: Тогда, может, ты мне её на почту закинешь?",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_29_5204",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx:\nБыл у меня один кавалер, который заезжал по вечерам, опустошал холодильник, ночевал, утром доедал остатки и сливался. Так и ездил, пару раз в неделю. Я, честно говоря, не парилась, только вот продукты таскать потом становилось влом. И вот как-то в субботу проснулась, говорю ему: \"Слушай, дорогой, пойдем вместе на рынок, затариться на неделю, мне одной тяжеловато\". Он такой: \"Без проблем! Только мне сейчас срочно надо одно дельце провернуть, через пару часов буду, и пойдем\". Больше я его, конечно, не видела.",
+      "rating": 1,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_21_2089",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Купили самую огромную кровать, 180 на 210. Думали, там полкоманды уместится. И вот почему, мать его, нам сейчас на ней места не хватает?\nyyy: Наверное, у вас есть коты?",
+      "rating": 12,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_37_5393",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Гром: Пришла мне тут в голову одна история, как сынок одного очень богатого папаши звонит и верещит: \"Папка, срочно на Южный полюс партию белых медведей закинь, я в географии полный ноль!\"\nLynx: И что, это всё из-за новых правил? )\nГром: Ну да...\nГром: Похоже, кто-то на экзамене по жизни провалился.",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_25_6915",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Эти наши ЖКХ, ей-богу, похоже, специально выжидают, когда на улице льет как из ведра и мороз трещит, чтобы тут же вырубить нам горячую воду и батареи. Прям закон подлости какой-то!",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_27_6473",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Instagram, значит, выдает фото: туманное поле, в центре – лошадь. Подпись, естественно, на английском, полная пафоса и глубокомысленных рассуждений о сущности табунов. И под этим всем – море восторженных комментариев: \"Как изящно!\", \"Какая мудрость!\", \"Настоящая философия!\". И тут, как вишенка на торте, один русский комментарий: \"Ой, ёжик!\".",
+      "rating": 3,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_9_6285",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Короче, надо было в клубе с нуля всю проводку тянуть, а там темнота, как у негра в заднице. Электрики, надо сказать, были профи, реально шарили. Я им так, мол, вот вам фронт работ, нарисуйте цену, сколько скажете – сразу отдам. А они мне такие: \"Увольте, тут работы как минимум на год, мы в такое не вписываемся\".",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_71_5556",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Врач: Так-с, выписала вам вот это вот \"что-то-от-чего-то\", \"для-того-чтобы-стало-лучше\" и, конечно, активированный уголь! Вы \"что-то-от-чего-то\" принимаете?\nЯ (на автомате): А то! Пью верой и правдой, как доктор прописал...\nВ: Это ж уколы были! 😳",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_61_3767",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Наш клан в ММО затеял в реале сходку, 16 душ из одного города. А наш зам, Gulag, припер свою мазню – холст метр на полтора. На нем Архип, наш вечно глючащий парень, в припадке ярости громит клаву головой. Подписано: \"Архип и Лаг\". Вот такое вот искусство в подарок.",
+      "rating": 2,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_41_6393",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Мы, как небо и земля, а всё равно по уши вляпались.",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
+    },
+    {
+      "id": "ibash_0_7963",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Чичиков, изнывая от безделья, принялся скупать мертвые аккаунты в сети, чтобы раздуть свой инстаграм. Теперь он мечтал прослыть звездой интернета и кормиться с руки столичной администрации, выполняя заказы на \"продвижение важных идей\".",
+      "rating": 18,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-22T20:37:16.579294+00:00"
     }
   ]
 }
