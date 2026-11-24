@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T12:58:25.657599+00:00",
+  "updated_at": "2026-11-24T14:16:30.378391+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -52,5 +52,66 @@
       "platform": "telegram"
     }
   ],
-  "quotes": []
+  "quotes": [
+    {
+      "id": "vk_ygapchik_555035",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 7,
+      "original_url": "https://vk.com-59595086_555035",
+      "images": [
+        "https://sun9-2.vkuserphoto.ru/s/v1/ig2/cG9yg54FGWcMoXrXJJ-rxHsMVZAzCETGGw3HlliFL0nscWiR4oCk41w5sTE7M6u46asHmBc2oQuZfFwche-gLKX4.jpg?quality=95&crop=0,0,808,919&as=32x36,48x55,72x82,108x123,160x182,240x273,360x409,480x546,540x614,640x728,720x819,808x919&from=bu&cs=808x0"
+      ],
+      "added_at": "2026-11-24T14:16:30.378391+00:00"
+    },
+    {
+      "id": "vk_ostroumor_872141",
+      "source_id": "vk_ostroumor",
+      "type": "mixed",
+      "content": "Президент США Дональд Трамп поздравил Дженсена Хуанга с возвращением на пост главы Nvidia и не упустил возможность напомнить про пикантный скандал. В Truth Social выложили фотожабу: Хуанг с красным лифчиком в поднятой руке, за спиной развевается флаг компании, а окружающие то ли удерживают бизнесмена, то ли прикрывают его от посторонних глаз. За основу взяли знаменитый снимок Трампа после покушения в июле 2024 года, где окровавленный политик поднимает кулак в окружении сотрудников Секретной службы. В новой версии политика заменили Хуангом, американский флаг — символикой Nvidia, а сжатый кулак — красным бюстгальтером. Трамп заверил, что у американских властей нет доказательств противоправных действий Хуанга и Вашингтон не видит угрозы национальной безопасности в его восстановлении.\n\nСам текст поздравления оказался куда серьёзнее: решение совета директоров Nvidia вернуть основателя компании Трамп назвал правильным и обоснованным, руководство Хуанга — нужным не только корпорации, но и всей американской экономике, а самого предпринимателя — великим патриотом и национальным достоянием. Официально возвращение подтвердили 23 ноября: совет директоров единогласно восстановил основателя корпорации на должностях президента, гендиректора и члена совета; при принятии решения учитывались консультации с представителями американского правительства. На фоне кадровых перестановок акции Nvidia резко пошли вверх: после объявления о восстановлении Хуанга бумаги технологического гиганта прибавили более 30% на открытии торгов.",
+      "rating": 4,
+      "original_url": "https://vk.com-93463988_872141",
+      "images": [
+        "https://sun9-16.vkuserphoto.ru/s/v1/ig2/931oMjhCR6fulr6tHx6Snjy7idrfEmEyBDLdsU5RVH_GHxOptB9T79AyAC0LGp9rLV5avdewa_qNM_o0n_0x8z29.jpg?quality=96&as=32x30,48x44,72x66,108x100,160x148,240x222,360x332,480x443,540x499,640x591,720x665,1080x997,1280x1182&from=bu&cs=1280x0"
+      ],
+      "added_at": "2026-11-24T14:16:30.378391+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159776",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 1,
+      "original_url": "https://vk.com-146746714_159776",
+      "images": [
+        "https://sun9-8.vkuserphoto.ru/s/v1/ig2/ZoEm9H6bWR68pYZ-4viUlxBz5-mtBkCo3HHc1cFWFPcU5ha2ELo8Cixjq1eJL-faXeMQ2Emeh5DeHsHHK7FGefYN.jpg?quality=96&as=32x40,48x60,72x91,108x136,160x202,240x302,360x453,480x605,540x680,640x806,720x907,886x1116&from=bu&cs=886x0"
+      ],
+      "added_at": "2026-11-24T14:16:30.378391+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394280",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 3,
+      "original_url": "https://vk.com-83492255_394280",
+      "images": [
+        "https://sun9-37.vkuserphoto.ru/s/v1/ig2/GkA0Fs8VPFwRNfpaPMGL05SwVdUXTjfWcoDHNOtai7F8KmdL5x-N3tvor6XInz-QwYrse5-Pt7rVv7nsQTv_TWhj.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,613x919&from=bu&cs=613x0"
+      ],
+      "added_at": "2026-11-24T14:16:30.378391+00:00"
+    },
+    {
+      "id": "vk_ygapchik_555061",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 4,
+      "original_url": "https://vk.com-59595086_555061",
+      "images": [
+        "https://sun9-65.vkuserphoto.ru/s/v1/ig2/Fg_F6Lt0J_vqSgQV7gcuANYQ-NV0geTCRvgboSIM2ySSAGrddfxYY2Guf4sYSjOEvUrPIXT8ZL4_82_boEh53Fou.jpg?quality=95&crop=0,0,1051,1371&as=32x42,48x63,72x94,108x141,160x209,240x313,360x470,480x626,540x704,640x835,720x939,1051x1371&from=bu&cs=1051x0"
+      ],
+      "added_at": "2026-11-24T14:16:30.378391+00:00"
+    }
+  ]
 }
