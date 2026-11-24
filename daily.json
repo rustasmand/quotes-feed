@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T09:58:49.814977+00:00",
+  "updated_at": "2026-11-24T10:52:42.184966+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -24,11 +24,227 @@
   ],
   "quotes": [
     {
+      "id": "ibash_0_4095",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Чичиков, изнывая от безделья, принялся скупать мертвые аккаунты в сети, чтобы раздуть свой инстаграм. Теперь он мечтал прослыть звездой интернета и кормиться с руки столичной администрации, выполняя заказы на \"продвижение важных идей\".",
+      "rating": 20,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_1_4294",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Чичиков, изнывая от безделья, принялся скупать мертвые аккаунты в сети, чтобы раздуть свой инстаграм. Теперь он мечтал прослыть звездой интернета и кормиться с руки столичной администрации, выполняя заказы на \"продвижение важных идей\".",
+      "rating": 20,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_7_9477",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "ххх: Я всё никак не угомонюсь, глядя на этих фанатов старинных картинок, где нарисовали каких-то \"динозавров\".\nххх: Ну, вы даете!\nххх: Серьезно, существа на рисунках больше на динозавров смахивают, чем на верблюдов?\nххх: Да уж, средневековые книжки с картинками — отдельная песня.\nххх: Там, порой, такое нарисуют: будто Ктулху на полном отлете из уклейки себе костюм сварганил.\nххх: А подпись — \"Осьминог\".",
+      "rating": 2,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_9_4354",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Короче, надо было в клубе с нуля всю проводку тянуть, а там темнота, как у негра в заднице. Электрики, надо сказать, были профи, реально шарили. Я им так, мол, вот вам фронт работ, нарисуйте цену, сколько скажете – сразу отдам. А они мне такие: \"Увольте, тут работы как минимум на год, мы в такое не вписываемся\".",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_11_6592",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Перевод часов обратно? Знаете, это так напоминает мне наших любимых разработчиков игр. Те, которые вроде как что-то там переделают, а потом, когда все уже привыкли и потратили кучу времени и сил на адаптацию, вдруг такие: 'А давайте всё вернем как было!",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_13_5710",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Препод: Собственный класс, знаешь, что это такое и когда он нам пригодится?\nСтудент: Ну, это такое хитрое множество, которое само по себе — не часть никакого другого множества. Это как бы наш способ избежать путаницы в старых теорийках.\nПрепод: Ладно, давай, приведи пару примеров.\nСтудент: Эээ... Тут загвоздка. Если я приведу пример, он сразу станет \"частью\" нашего разговора, то есть элементом. А первый же принцип этого вашего класса — \"ни за что не быть элементом\"! Так что, никак.",
+      "rating": 5,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_15_1769",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "– Ну что, сколько там в жиме лежа давишь?\n– Около двух сотен.\n– Вот это силач! А по виду и не скажешь.\n– Так это за всю неделю, понемногу.",
+      "rating": 5,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_17_7724",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Утренник в садике, на сцене — воспитательницы.\nЕстественно, кто бы мог подумать, пора звать Деда Мороза! Выходит он, весь при параде: халат, шапка, борода, посох. И такой, значит, спрашивает:\n— Дети, а кто я такой?\nДети хором:\n— Ирина Анатольевна!",
+      "rating": 7,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_21_2958",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Купили самую огромную кровать, 180 на 210. Думали, там полкоманды уместится. И вот почему, мать его, нам сейчас на ней места не хватает?\nyyy: Наверное, у вас есть коты?",
+      "rating": 12,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_23_7660",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "ххх: Интересно, а на огонь есть какие-то авторские права?\nууу: Ага, Прометея уже подвели под статью за пиратство.",
+      "rating": 3,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_25_1788",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Эти наши ЖКХ, ей-богу, похоже, специально выжидают, когда на улице льет как из ведра и мороз трещит, чтобы тут же вырубить нам горячую воду и батареи. Прям закон подлости какой-то!",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_27_1013",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Instagram, значит, выдает фото: туманное поле, в центре – лошадь. Подпись, естественно, на английском, полная пафоса и глубокомысленных рассуждений о сущности табунов. И под этим всем – море восторженных комментариев: \"Как изящно!\", \"Какая мудрость!\", \"Настоящая философия!\". И тут, как вишенка на торте, один русский комментарий: \"Ой, ёжик!\".",
+      "rating": 3,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_29_8000",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx:\nБыл у меня один кавалер, который заезжал по вечерам, опустошал холодильник, ночевал, утром доедал остатки и сливался. Так и ездил, пару раз в неделю. Я, честно говоря, не парилась, только вот продукты таскать потом становилось влом. И вот как-то в субботу проснулась, говорю ему: \"Слушай, дорогой, пойдем вместе на рынок, затариться на неделю, мне одной тяжеловато\". Он такой: \"Без проблем! Только мне сейчас срочно надо одно дельце провернуть, через пару часов буду, и пойдем\". Больше я его, конечно, не видела.",
+      "rating": 1,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_31_3733",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Слушай, а сколько эта игрушка весит, примерно?\nyyy: Ну, гигов десять, наверное.\nxxx: Ого. А с торрентов долго будет качаться?\nyyy: Ага, долго.\nxxx: Тогда, может, ты мне её на почту закинешь?",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_33_7994",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Сегодня в школе какой-то батюшка объявился.\nxxx: Видать, пришли детей в вере укрепить.\nxxx: А тут такое дело – малышня с криками \"Дай баф на выносливость!\" за ним понеслась.",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_35_8629",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "xxx: Вот и мои хоромы!\nyyy: Учитывая, что \"хоромы\" эти на девятом этаже, а лифт сдох, это скорее орлиное гнездо, куда забираться – подвиг.",
+      "rating": 2,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_37_6213",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Гром: Пришла мне тут в голову одна история, как сынок одного очень богатого папаши звонит и верещит: \"Папка, срочно на Южный полюс партию белых медведей закинь, я в географии полный ноль!\"\nLynx: И что, это всё из-за новых правил? )\nГром: Ну да...\nГром: Похоже, кто-то на экзамене по жизни провалился.",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_39_9281",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Удивительная картина маслом: бреду по деревне, вижу чудо отечественного автопрома, обутое в летнюю \"обувь\" (ну, вы понимаете). За рулём – какой-то алконавт, явно собирается покорять просторы. А у распахнутой двери – бабуля, крестит его и бормочет: \"Чтоб дорога была гладкая, как ляжка младенца!\" Ну, цирк, ё-моё.",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_41_3297",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Мы, как небо и земля, а всё равно по уши вляпались.",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_43_7572",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Два заядлых геймера заявились за 22-дюймовым монитором Samsung. Начали, понятное дело, копаться в пикселях. Нашли один битый, прямо по центру. Ну, ради прикола решили проверить, точно ли он там, перезагрузили комп. И тут – вот те на! – стрелка курсора легка и непринужденно указывает точно на эту бяку. Парни чуть с ума не сошли от восторга, мол, теперь в \"Контру\" и прочую чушь рубиться – одно удовольствие! Готовы были меня на руках носить, честное слово!",
+      "rating": 4,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_61_4292",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Наш клан в ММО затеял в реале сходку, 16 душ из одного города. А наш зам, Gulag, припер свою мазню – холст метр на полтора. На нем Архип, наш вечно глючащий парень, в припадке ярости громит клаву головой. Подписано: \"Архип и Лаг\". Вот такое вот искусство в подарок.",
+      "rating": 1,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_67_9438",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Открыл я этот трудовой договор, листаю, значит, и натыкаюсь на пункт:\n\"2.1. То, что ты делаешь, называется работой.\"\nЯ аж завис.",
+      "rating": 5,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_71_2669",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "Врач: Так-с, выписала вам вот это вот \"что-то-от-чего-то\", \"для-того-чтобы-стало-лучше\" и, конечно, активированный уголь! Вы \"что-то-от-чего-то\" принимаете?\nЯ (на автомате): А то! Пью верой и правдой, как доктор прописал...\nВ: Это ж уколы были! 😳",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
+      "id": "ibash_79_5984",
+      "source_id": "ibash",
+      "type": "text",
+      "content": "У вас там уже осенний озноб, или просто прохладно?",
+      "rating": 0,
+      "original_url": "https://ibash.org.ru",
+      "added_at": "2026-11-24T10:52:42.184966+00:00"
+    },
+    {
       "id": "bash_470091",
       "source_id": "bashorg_rf",
       "type": "text",
       "content": "У детской зубной пасты спектр вкусов вроде клубничка, сливочная помадка, жвачка и т.д. Значит её можно делать разной, и страдание в процессе - не обязательное условие.\nТАК ПОЧЕМУ взрослая бывает только двух видов - Мятная Смерть Вселенной или Травяная Блевота Лося?!",
-      "rating": 96,
+      "rating": 98,
       "original_url": "https://башорг.рф/quote/470091",
       "added_at": "2026-11-24T09:58:49.814977+00:00"
     },
@@ -280,7 +496,7 @@
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 1,
+      "rating": 2,
       "original_url": "https://vk.com-83492255_394278",
       "images": [
         "https://sun9-45.vkuserphoto.ru/s/v1/ig2/R8lQEPbF1EHRbEFi9VyYKXDNa12wp-W8LRcGFJz189y8aK4kY4en7KO3Hw8WKvi913qj7aEuJb2asCcogPn_hD5n.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=2000x0"
@@ -292,7 +508,7 @@
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 28,
+      "rating": 29,
       "original_url": "https://vk.com-83492255_394266",
       "images": [
         "https://sun9-69.vkuserphoto.ru/s/v1/ig2/KE0FPWTMhSSQbhodPzOen0DFHkz5IPmHC2ESbdxBgTBYwXl2esVFgK06vSH2MGBXN4sp7p0nBlSDr1GkmqRi9q0s.jpg?quality=96&as=32x39,48x59,72x89,108x133,160x197,240x295,360x443,480x591,540x665,640x788&from=bu&cs=640x0"
@@ -754,7 +970,7 @@
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 29,
+      "rating": 30,
       "original_url": "https://vk.com-83492255_394264",
       "images": [
         "https://sun9-37.vkuserphoto.ru/s/v1/ig2/vVHgIFKCIwJBI6bXl-LZG8dE88ehxhiueUFttDeJeyDM07JvVGoBq9FlfneoMM6j7nIh6qRDYFmaxoPgp60kUU2I.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x136,240x204,360x307,480x409,540x460,640x545,720x613,1080x920,1280x1090,1440x1226,1999x1702&from=bu&cs=1999x0"
@@ -1231,7 +1447,7 @@
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 3,
+      "rating": 4,
       "original_url": "https://vk.com-83492255_394276",
       "images": [
         "https://sun9-4.vkuserphoto.ru/s/v1/ig2/P3m-HGcWZvIvTfaaCZXmo4dcq3Gpkj0ZkvQ5cwH0-RXQAvSOip51cDBzG531mwnTsB4kR7s1C8B-FzIDBCtovF50.jpg?quality=96&as=32x25,48x37,72x56,108x84,160x125,240x187,360x281,480x374,540x421,640x499,720x562,1080x842,1280x998,1440x1123,2000x1560&from=bu&cs=2000x0"
@@ -1927,7 +2143,7 @@
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 11,
+      "rating": 14,
       "original_url": "https://vk.com-83492255_394274",
       "images": [
         "https://sun9-39.vkuserphoto.ru/s/v1/ig2/P0VlSkiYOni3oqUqlMxUsKNupE8rPFFL2VZPUZKgiml7fYNiJ6sHnWT-v2VmqD3YUwO9r9gdVqBtlYy1G3J5AU1d.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,700x933&from=bu&cs=700x0"
@@ -2752,7 +2968,7 @@
       "source_id": "bashorg_rf",
       "type": "text",
       "content": "- Объясните мне, зачем возить детей до 3-х лет в отпуск? Они же устают в дороге, орут не весь самолет, это и для вас пытка и для ребенка.\n- 3 летний ребенок хуево разбирается в готовке и стирке, когда его оставляешь одного на две недели.",
-      "rating": 227,
+      "rating": 228,
       "original_url": "https://башорг.рф/quote/470070",
       "added_at": "2026-11-23T21:43:03.084822+00:00"
     },
@@ -3517,7 +3733,7 @@
       "source_id": "bashorg_rf",
       "type": "text",
       "content": "Patrikeev: до чего докатились - мы начали пиздить цитаты с Баша и выкладывать на Баш! \nС каждым днем мы все дальше от Бога)",
-      "rating": 309,
+      "rating": 310,
       "original_url": "https://башорг.рф/quote/469963",
       "added_at": "2026-11-23T21:43:03.084822+00:00"
     },
@@ -4146,7 +4362,7 @@
       "id": "tg_uboiny_yumor_59890",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 869,
+      "rating": 879,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59890.jpg"
       ],
@@ -4158,7 +4374,7 @@
       "id": "tg_uboiny_yumor_59889",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 1057,
+      "rating": 1065,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59889.jpg"
       ],
@@ -4170,7 +4386,7 @@
       "id": "tg_uboiny_yumor_59888",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 2532,
+      "rating": 2541,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59888.jpg"
       ],
@@ -4182,7 +4398,7 @@
       "id": "tg_uboiny_yumor_59887",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 2467,
+      "rating": 2474,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59887.jpg"
       ],
@@ -4194,7 +4410,7 @@
       "id": "tg_uboiny_yumor_59886",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 2486,
+      "rating": 2491,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59886.jpg"
       ],
@@ -4206,7 +4422,7 @@
       "id": "tg_uboiny_yumor_59885",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3347,
+      "rating": 3354,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59885.jpg"
       ],
@@ -4218,7 +4434,7 @@
       "id": "tg_uboiny_yumor_59884",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3018,
+      "rating": 3022,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59884.jpg"
       ],
@@ -4230,7 +4446,7 @@
       "id": "tg_uboiny_yumor_59883",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 2688,
+      "rating": 2691,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59883.jpg"
       ],
@@ -4242,7 +4458,7 @@
       "id": "tg_uboiny_yumor_59882",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3423,
+      "rating": 3426,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59882.jpg"
       ],
@@ -4254,7 +4470,7 @@
       "id": "tg_uboiny_yumor_59881",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3938,
+      "rating": 3941,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59881.jpg"
       ],
@@ -4266,7 +4482,7 @@
       "id": "tg_uboiny_yumor_59880",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3857,
+      "rating": 3860,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59880.jpg"
       ],
@@ -4278,7 +4494,7 @@
       "id": "tg_uboiny_yumor_59879",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3960,
+      "rating": 3963,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59879.jpg"
       ],
@@ -4290,7 +4506,7 @@
       "id": "tg_uboiny_yumor_59878",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3880,
+      "rating": 3884,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59878.jpg"
       ],
@@ -4302,7 +4518,7 @@
       "id": "tg_uboiny_yumor_59877",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3439,
+      "rating": 3442,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59877.jpg"
       ],
@@ -4314,7 +4530,7 @@
       "id": "tg_uboiny_yumor_59876",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3708,
+      "rating": 3712,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59876.jpg"
       ],
@@ -4326,7 +4542,7 @@
       "id": "tg_uboiny_yumor_59875",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4681,
+      "rating": 4684,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59875.jpg"
       ],
@@ -4338,7 +4554,7 @@
       "id": "tg_uboiny_yumor_59874",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4643,
+      "rating": 4645,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59874.jpg"
       ],
@@ -4350,7 +4566,7 @@
       "id": "tg_uboiny_yumor_59873",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4311,
+      "rating": 4312,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59873.jpg"
       ],
@@ -4362,7 +4578,7 @@
       "id": "tg_uboiny_yumor_59872",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3777,
+      "rating": 3778,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59872.jpg"
       ],
@@ -4374,7 +4590,7 @@
       "id": "tg_uboiny_yumor_59871",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 3784,
+      "rating": 3785,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59871.jpg"
       ],
@@ -4386,7 +4602,7 @@
       "id": "tg_uboiny_yumor_59870",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4723,
+      "rating": 4724,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59870.jpg"
       ],
@@ -4398,7 +4614,7 @@
       "id": "tg_uboiny_yumor_59869",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4468,
+      "rating": 4469,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59869.jpg"
       ],
@@ -4410,7 +4626,7 @@
       "id": "tg_uboiny_yumor_59868",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4631,
+      "rating": 4632,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59868.jpg"
       ],
@@ -4422,7 +4638,7 @@
       "id": "tg_uboiny_yumor_59867",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4410,
+      "rating": 4411,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59867.jpg"
       ],
@@ -4434,7 +4650,7 @@
       "id": "tg_uboiny_yumor_59866",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4294,
+      "rating": 4295,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59866.jpg"
       ],
@@ -4446,7 +4662,7 @@
       "id": "tg_uboiny_yumor_59865",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4292,
+      "rating": 4293,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59865.jpg"
       ],
@@ -4458,7 +4674,7 @@
       "id": "tg_uboiny_yumor_59864",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4330,
+      "rating": 4331,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59864.jpg"
       ],
@@ -4470,7 +4686,7 @@
       "id": "tg_uboiny_yumor_59863",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4727,
+      "rating": 4728,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59863.jpg"
       ],
@@ -4482,7 +4698,7 @@
       "id": "tg_uboiny_yumor_59862",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 4679,
+      "rating": 4681,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59862.jpg"
       ],
@@ -4494,7 +4710,7 @@
       "id": "tg_uboiny_yumor_59861",
       "source_id": "tg_uboiny_yumor",
       "content": "",
-      "rating": 5230,
+      "rating": 5232,
       "images": [
         "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59861.jpg"
       ],
