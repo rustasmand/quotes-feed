@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-24T16:58:08.921144+00:00",
+  "updated_at": "2026-11-24T17:48:20.449992+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,16 +54,52 @@
   ],
   "quotes": [
     {
-      "id": "vk_ygapchik_555100",
+      "id": "vk_prikol_sms_smex_394282",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 0,
+      "original_url": "https://vk.com-83492255_394282",
+      "images": [
+        "https://sun9-50.vkuserphoto.ru/s/v1/ig2/-77J_VO7toePumj7b8SwmnjH137GJjeWbYTAgSokSo5ALN9y4Z_aEpogB14HLZjv0Nk_g3Wyo7mkzJBZ6lYWRa95.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,700x875&from=bu&cs=700x0"
+      ],
+      "added_at": "2026-11-24T17:48:20.449992+00:00"
+    },
+    {
+      "id": "tg_uboiny_yumor_59891",
+      "source_id": "tg_uboiny_yumor",
+      "content": "",
+      "rating": 117,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_uboiny_yumor_59891.jpg"
+      ],
+      "original_url": "https://t.me/Yumor/59891",
+      "added_at": "2026-11-24T17:48:20.449992+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_ygapchik_555124",
       "source_id": "vk_ygapchik",
       "type": "image",
       "content": "",
-      "rating": 10,
-      "original_url": "https://vk.com-59595086_555100",
+      "rating": 6,
+      "original_url": "https://vk.com-59595086_555124",
       "images": [
-        "https://sun9-15.vkuserphoto.ru/s/v1/ig2/vbIALy8g2RyZtXLlEltKU-qakzNPqOSM_L3Jt5s_0UsAeIZN_6CknZlkelypWPp_Bzgtr1kQdKw_igrqN1E8aQob.jpg?quality=95&crop=0,0,792,918&as=32x37,48x56,72x83,108x125,160x185,240x278,360x417,480x556,540x626,640x742,720x835,792x918&from=bu&cs=792x0"
+        "https://sun9-84.vkuserphoto.ru/s/v1/ig2/h5nIDPsn9iY6M4yIO-vFrgPLVB9fkh51lHO5er860FOYbtMqMZXFWesoEDcfEnYuGe6SueHobyV7QpjsbZvWOsJS.jpg?quality=95&crop=0,0,735,919&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,720x900,735x919&from=bu&cs=735x0"
       ],
-      "added_at": "2026-11-24T16:58:08.921144+00:00"
+      "added_at": "2026-11-24T17:48:20.449992+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159783",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 1,
+      "original_url": "https://vk.com-146746714_159783",
+      "images": [
+        "https://sun9-8.vkuserphoto.ru/s/v1/ig2/QodiEJhTojQlXrHCfSFSR8NZbqxHbqmXpsYyIoFKYHdc5XLGCwOPkIRRQc3ctF5OATUjsrGFuxCtgMaIlJu_W7mg.jpg?quality=96&as=32x40,48x60,72x90,108x136,160x201,240x301,360x452,480x603,540x678,640x804,704x884&from=bu&cs=704x0"
+      ],
+      "added_at": "2026-11-24T17:48:20.449992+00:00"
     }
   ]
 }
