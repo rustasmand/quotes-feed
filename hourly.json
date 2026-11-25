@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T10:00:39.641918+00:00",
+  "updated_at": "2026-11-25T10:56:46.642465+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,112 +54,16 @@
   ],
   "quotes": [
     {
-      "id": "vk_prikol_sms_smex_394291",
-      "source_id": "vk_prikol_sms_smex",
+      "id": "vk_jokesss_421983",
+      "source_id": "vk_jokesss",
       "type": "image",
       "content": "",
-      "rating": 2,
-      "original_url": "https://vk.com-83492255_394291",
+      "rating": 9,
+      "original_url": "https://vk.com-28468381_421983",
       "images": [
-        "https://sun9-65.vkuserphoto.ru/s/v1/ig2/Tnz9eGfFLOq2enJY-ExRcTbHbI0sEXg8r3FbcvOQ58foebJQ9r1wpDPwQRNCDsmGIY-Wb2fsc4OJ7FK56k5iCVf9.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,890x890&from=bu&cs=890x0"
+        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/mnLk3-1l6FiXx4i1Q5onMPxF_ZHjY2hDhMHriSiV0hmsRFuRZz0yEUxJwbfZUm1zi8vG4icpXyZNkUydTuy9aQ4y.jpg?quality=95&crop=0,0,1079,1224&as=32x36,48x54,72x82,108x123,160x181,240x272,360x408,480x544,540x613,640x726,720x817,1079x1224&from=bu&cs=1079x0"
       ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "vk_ygapchik_555419",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 11,
-      "original_url": "https://vk.com-59595086_555419",
-      "images": [
-        "https://sun9-48.vkuserphoto.ru/s/v1/ig2/LBDVILH1qT9RfG3hWQ3vA8jTwyMR3UHuqXi_YrkR3KcaP12ASIed5KV6rok612R1_N4E_eg5lyQ_RYNKkiry3rIW.jpg?quality=95&crop=57,0,1543,868&as=32x18,48x27,72x40,108x61,160x90,240x135,360x203,480x270,540x304,640x360,720x405,1080x608,1280x720,1440x810,1543x868&from=bu&cs=1543x0"
-      ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "bash_470091",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "У детской зубной пасты спектр вкусов вроде клубничка, сливочная помадка, жвачка и т.д. Значит её можно делать разной, и страдание в процессе - не обязательное условие.\nТАК ПОЧЕМУ взрослая бывает только двух видов - Мятная Смерть Вселенной или Травяная Блевота Лося?!",
-      "rating": 107,
-      "original_url": "https://башорг.рф/quote/470091",
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "bash_470090",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "- Есть птицы, которые часто практикуют такой клептопаразитизм - садятся у муравьиной тропы и смотрят, кто чего несет. Если гусеницу или еще что интересное - отнимают и сжирают сами.\n- Куриный налог. Муравьям надо не болтать, а лучше работать , чтобы хватало и на курицу, и на себя. Каждый муравей может стать курицей, если будет много и усердно работать!",
-      "rating": 87,
-      "original_url": "https://башорг.рф/quote/470090",
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "bash_470088",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "xxx: Объясните, почему, когда я листала Тиндер, я увидела анкету своего парня??? Мужчины что, не могут быть верными?\nxxx: Перестаньте спрашивать меня, что я делала в Тиндере, не в этом суть!",
-      "rating": 189,
-      "original_url": "https://башорг.рф/quote/470088",
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "vk_ygapchik_555436",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 1,
-      "original_url": "https://vk.com-59595086_555436",
-      "images": [
-        "https://sun9-63.vkuserphoto.ru/s/v1/ig2/cbIfsa7yA-LhrtZAyhCGBDZrwGTmljRNjjA1f-wPqdSETtErjo5Z5kgPxFYuGkW6vOwSthJQKhm5_dLBA2T59Xuc.jpg?quality=95&crop=0,0,936,936&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,936x936&from=bu&cs=936x0"
-      ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "bash_470089",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "ааа: Хотели заняться возобновляемой энергетикой, но потом от этих планов отказались. Потому что, например, совсем не понятно как можно украсть топливо для ветряных электростанций\nbbb: топливо для ветряных электростанций - это деньги на ветер. И его в процессе строительства наворовали столько, что любая область энергетики обзавидуеься",
-      "rating": 78,
-      "original_url": "https://башорг.рф/quote/470089",
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "vk_prikol_sms_smex_394278",
-      "source_id": "vk_prikol_sms_smex",
-      "type": "image",
-      "content": "",
-      "rating": 5,
-      "original_url": "https://vk.com-83492255_394278",
-      "images": [
-        "https://sun9-45.vkuserphoto.ru/s/v1/ig2/R8lQEPbF1EHRbEFi9VyYKXDNa12wp-W8LRcGFJz189y8aK4kY4en7KO3Hw8WKvi913qj7aEuJb2asCcogPn_hD5n.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,1080x1080,1280x1280,1440x1440,2000x2000&from=bu&cs=2000x0"
-      ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159807",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 0,
-      "original_url": "https://vk.com-146746714_159807",
-      "images": [
-        "https://sun9-80.vkuserphoto.ru/s/v1/ig2/NyhVtsi_0r9C31OcE7nQw5vnWegQbcVvDdAcA90rhJ6Vbxbu5LFAQzqzTopKxO7JAfSDGFkxV_WU_DFre27G131B.jpg?quality=96&as=32x19,48x28,72x42,108x63,160x94,240x141,360x211,480x281,540x316,640x375,719x421&from=bu&cs=719x0"
-      ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
-    },
-    {
-      "id": "vk_prikol_sms_smex_394266",
-      "source_id": "vk_prikol_sms_smex",
-      "type": "image",
-      "content": "",
-      "rating": 35,
-      "original_url": "https://vk.com-83492255_394266",
-      "images": [
-        "https://sun9-69.vkuserphoto.ru/s/v1/ig2/KE0FPWTMhSSQbhodPzOen0DFHkz5IPmHC2ESbdxBgTBYwXl2esVFgK06vSH2MGBXN4sp7p0nBlSDr1GkmqRi9q0s.jpg?quality=96&as=32x39,48x59,72x89,108x133,160x197,240x295,360x443,480x591,540x665,640x788&from=bu&cs=640x0"
-      ],
-      "added_at": "2026-11-25T10:00:39.641918+00:00"
+      "added_at": "2026-11-25T10:56:46.642465+00:00"
     }
   ]
 }
