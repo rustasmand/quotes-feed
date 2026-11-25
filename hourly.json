@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25T04:59:47.656217+00:00",
+  "updated_at": "2026-11-25T05:57:56.523991+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,29 +54,61 @@
   ],
   "quotes": [
     {
-      "id": "vk_ygapchik_555309",
+      "id": "tg_ithumor_16167",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 2303,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16167.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16167",
+      "added_at": "2026-11-25T05:57:56.523991+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394289",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 1,
+      "original_url": "https://vk.com-83492255_394289",
+      "images": [
+        "https://sun9-6.vkuserphoto.ru/s/v1/ig2/o5TOvt3bBqmFvGR40OgLgGN4U74R7yfIUXMGwXE5hBE_VNRan6LcecDwogm5sDX9Shlvm1ebQNkmlLBjsRfmSOLx.jpg?quality=96&as=32x38,48x57,72x85,108x128,160x189,240x284,360x426,480x567,540x638,640x757,720x851,769x909&from=bu&cs=769x0"
+      ],
+      "added_at": "2026-11-25T05:57:56.523991+00:00"
+    },
+    {
+      "id": "bash_470057",
+      "source_id": "bashorg_rf",
+      "type": "text",
+      "content": "softwarer> \"люди читают жопой\" (ц)\nau3> А чем же еще читать ваши опусы?\nsoftwarer> Лично я предпочитаю ходить ногами, делать руками, думать мозгами, кушать ртом и срать жопой. Но любой неадекватный человек, безусловно, имеет полное и неотъемлемое право поступать строго наоборот.",
+      "rating": 1,
+      "original_url": "https://башорг.рф/quote/470057",
+      "added_at": "2026-11-25T05:57:56.523991+00:00"
+    },
+    {
+      "id": "vk_ygapchik_555328",
       "source_id": "vk_ygapchik",
       "type": "image",
       "content": "",
-      "rating": 5,
-      "original_url": "https://vk.com-59595086_555309",
+      "rating": 13,
+      "original_url": "https://vk.com-59595086_555328",
       "images": [
-        "https://sun9-68.vkuserphoto.ru/s/v1/ig2/wekVeafIVoRbRPz_L0HzF4BfeTUZlUifC80KP3ETQ2oBlzRk9bOYiccSrrE8pg20I3ewXl76FT0r-41-GbNqaB9Q.jpg?quality=95&crop=0,0,722,1000&as=32x44,48x66,72x100,108x150,160x222,240x332,360x499,480x665,540x748,640x886,720x997,722x1000&from=bu&cs=722x0"
+        "https://sun9-54.vkuserphoto.ru/s/v1/ig2/-hRSTZqZRysy30h7nXf2QF2DuKqq6vLAniUWASz7oynDk6_V-EVKpg5EgZUfNPaW5RaqyIsoFzaqXn36ZWjq3e3C.jpg?quality=95&crop=0,0,808,1080&as=32x43,48x64,72x96,108x144,160x214,240x321,360x481,480x642,540x722,640x855,720x962,808x1080&from=bu&cs=808x0"
       ],
-      "added_at": "2026-11-25T04:59:47.656217+00:00"
+      "added_at": "2026-11-25T05:57:56.523991+00:00"
     },
     {
-      "id": "vk_smeh_u_rechki_159802",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 0,
-      "original_url": "https://vk.com-146746714_159802",
+      "id": "vk_prikol_sms_smex_394276",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 4,
+      "original_url": "https://vk.com-83492255_394276",
       "images": [
-        "https://sun9-37.vkuserphoto.ru/s/v1/ig2/TlMTRA0swWUyKsLAt1Qj0iai33TmrCDS9mJxxbWite6jIrZ_NJA4RE4oBaHKCobNVcg8kKYIlNQOIzS-iYBarl8E.jpg?quality=96&as=32x40,48x61,72x91,108x136,160x202,240x303,360x454,480x605,540x681,640x807,720x908,1066x1344&from=bu&cs=1066x0",
-        "https://sun9-48.vkuserphoto.ru/s/v1/ig2/LDXTEM41dQ49hM6cIgMEduXk2V4paTpwxdnUjITtQLnL9ZdhUO-GxWMC7gRjpzI7IcDjZip-995GGVE2A4jXIV-n.jpg?quality=96&as=32x33,48x50,72x75,108x112,160x166,240x249,360x374,480x498,540x561,640x665,720x748,1080x1121,1095x1137&from=bu&cs=1095x0"
+        "https://sun9-4.vkuserphoto.ru/s/v1/ig2/P3m-HGcWZvIvTfaaCZXmo4dcq3Gpkj0ZkvQ5cwH0-RXQAvSOip51cDBzG531mwnTsB4kR7s1C8B-FzIDBCtovF50.jpg?quality=96&as=32x25,48x37,72x56,108x84,160x125,240x187,360x281,480x374,540x421,640x499,720x562,1080x842,1280x998,1440x1123,2000x1560&from=bu&cs=2000x0"
       ],
-      "added_at": "2026-11-25T04:59:47.656217+00:00"
+      "added_at": "2026-11-25T05:57:56.523991+00:00"
     }
   ]
 }
