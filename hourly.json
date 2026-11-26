@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T08:28:17.052877+00:00",
+  "updated_at": "2026-11-26T09:58:50.398742+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,109 +54,96 @@
   ],
   "quotes": [
     {
-      "id": "bash_470094",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "xxx: Судя по последним событиям кто-то в небесной канцелярии случайно удалили сценарий моей жизни загрузив вместо него пак мемов...",
-      "rating": 24,
-      "original_url": "https://башорг.рф/quote/470094",
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
-    },
-    {
-      "id": "vk_ygapchik_555765",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 13,
-      "original_url": "https://vk.com-59595086_555765",
-      "images": [
-        "https://sun9-51.vkuserphoto.ru/s/v1/ig2/GNBISQwAud-rdbJD7ET-UETUXDnlTgQt7KkW_2HWStd2orxbrSyRKKux8eGBGsrcTCHz65Gl27PK7QinuSJJVthc.jpg?quality=95&as=32x55,48x82,72x123,108x184,160x273,240x410,360x614,480x819,540x922,640x1092,720x1229,808x1379&from=bu&cs=808x0"
-      ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159805",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 4,
-      "original_url": "https://vk.com-146746714_159805",
-      "images": [
-        "https://sun9-40.vkuserphoto.ru/s/v1/ig2/176WGx6HtH9ESR_MvCV3fWppFpr10AicJwDV43BLEr8abJnnhICF4_x0SQKp4Nc5i7NsoBomF4ueu9SbfgiX7wFq.jpg?quality=96&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x269,540x303,640x359,720x404,822x461&from=bu&cs=822x0"
-      ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
-    },
-    {
-      "id": "tg_ithumor_16174",
+      "id": "tg_ithumor_16168",
       "source_id": "tg_ithumor",
       "content": "",
-      "rating": 2661,
+      "rating": 9500,
       "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16174.jpg"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16168.jpg"
       ],
-      "original_url": "https://t.me/ithumor/16174",
-      "added_at": "2026-11-26T08:28:17.052877+00:00",
+      "original_url": "https://t.me/ithumor/16168",
+      "added_at": "2026-11-26T09:58:50.398742+00:00",
       "type": "image"
     },
     {
-      "id": "vk_ygapchik_555775",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 3,
-      "original_url": "https://vk.com-59595086_555775",
-      "images": [
-        "https://sun9-46.vkuserphoto.ru/s/v1/ig2/LiFhSBGy-VLlzB8zWT5FmzGRbZH3rp2L9GmlOetQGciCbzHcXMD1eAQTOIFlcZ_N8a8AGSjUkUx7cd_F1tToDt_C.jpg?quality=95&as=32x55,48x82,72x123,108x185,160x273,240x410,360x615,480x820,540x923,640x1094,720x1230,790x1350&from=bu&cs=790x0"
-      ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159844",
+      "id": "vk_smeh_u_rechki_159850",
       "source_id": "vk_smeh_u_rechki",
       "type": "mixed",
       "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
       "rating": 0,
-      "original_url": "https://vk.com-146746714_159844",
+      "original_url": "https://vk.com-146746714_159850",
       "images": [
-        "https://sun9-55.vkuserphoto.ru/s/v1/ig2/9BWZfGqzV9xsb94bI-XhMeISnYVxmoqIwPItZageNs-6cZOrmnS68KVqUTSsIJOPuAyMVihYjXlO5c4f-nGXYgob.jpg?quality=96&as=32x40,48x60,72x90,108x135,160x200,240x299,360x449,480x599,540x674,640x799,720x898,1080x1348,1154x1440&from=bu&cs=1154x0"
+        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/aPmsqP4nMYr-xc8dWr03y4Qj_Q3YgyCyvz2wn0TicRDwC8qedjNd9OYelQ6RJ58PRem-2s4Tb4eRmt81JZr2Wn0j.jpg?quality=96&as=32x33,48x49,72x73,108x110,160x163,240x244,360x366,480x488,540x549,640x651,720x732,815x829&from=bu&cs=815x0"
       ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
     },
     {
-      "id": "vk_jokesss_421976",
-      "source_id": "vk_jokesss",
-      "type": "image",
-      "content": "",
-      "rating": 41,
-      "original_url": "https://vk.com-28468381_421976",
-      "images": [
-        "https://sun9-64.vkuserphoto.ru/s/v1/ig2/6KUROJabIHyfDXmggH0Ny4tKYwc8UW1o9roSUAw338Qi91rlZWKGzfOwQcCjXj4xqi1lgmjmrGaCELQJe3mDe3aP.jpg?quality=95&crop=0,0,959,1073&as=32x36,48x54,72x81,108x121,160x179,240x269,360x403,480x537,540x604,640x716,720x806,959x1073&from=bu&cs=959x0"
-      ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
+      "id": "bash_470093",
+      "source_id": "bashorg_rf",
+      "type": "text",
+      "content": "из коментов на ютубе: \n-Автор действительно сгладил углы. Обзор приобрёл форму идеального круга",
+      "rating": 37,
+      "original_url": "https://башорг.рф/quote/470093",
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
     },
     {
-      "id": "vk_ostroumor_872261",
-      "source_id": "vk_ostroumor",
-      "type": "image",
+      "id": "tg_korporatcyazla_14364723026330066",
+      "source_id": "tg_korporatcyazla",
       "content": "",
-      "rating": 146,
-      "original_url": "https://vk.com-93463988_872261",
+      "rating": 559,
       "images": [
-        "https://sun9-84.vkuserphoto.ru/s/v1/ig2/OMrtUmn5AtHQjBMiUeym5qOk18iL99Ko18ZIV-PHXOvbDI1b-knGv8aNVqGIdTcHBNBF3pst-WQIXVwfBoIyIGM0.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_korporatcyazla_6324.jpg",
+        "https://quotes-api.rustasmand.workers.dev/images/tg_korporatcyazla_6325.jpg",
+        "https://quotes-api.rustasmand.workers.dev/images/tg_korporatcyazla_6326.jpg"
       ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
+      "original_url": "https://t.me/korporatcyazla/6326",
+      "added_at": "2026-11-26T09:58:50.398742+00:00",
+      "type": "image"
     },
     {
-      "id": "vk_ostroumor_872452",
-      "source_id": "vk_ostroumor",
+      "id": "bash_470092",
+      "source_id": "bashorg_rf",
+      "type": "text",
+      "content": "Наконец то мы научились управлять погодой: \nПомыл машину - будет дождь. \nВзял с собой зонт - дождя не будет. \nВыпросил отпуск летом - лето будет холодным и дождливым. \nКупил с осени лыжи - зима будет малоснежной.",
+      "rating": 63,
+      "original_url": "https://башорг.рф/quote/470092",
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394264",
+      "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 8,
-      "original_url": "https://vk.com-93463988_872452",
+      "rating": 42,
+      "original_url": "https://vk.com-83492255_394264",
       "images": [
-        "https://sun9-53.vkuserphoto.ru/s/v1/ig2/2LtuAI02FaHHjWjNmcp0_fBX6s8OIU68HrbA_Xoy5LLo79jobzhKqXEk2hrWryvGcaIRrvZJgtsSrUmgtFKmk7Jc.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
+        "https://sun9-37.vkuserphoto.ru/s/v1/ig2/vVHgIFKCIwJBI6bXl-LZG8dE88ehxhiueUFttDeJeyDM07JvVGoBq9FlfneoMM6j7nIh6qRDYFmaxoPgp60kUU2I.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x136,240x204,360x307,480x409,540x460,640x545,720x613,1080x920,1280x1090,1440x1226,1999x1702&from=bu&cs=1999x0"
       ],
-      "added_at": "2026-11-26T08:28:17.052877+00:00"
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
+    },
+    {
+      "id": "vk_ygapchik_555791",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 14,
+      "original_url": "https://vk.com-59595086_555791",
+      "images": [
+        "https://sun9-2.vkuserphoto.ru/s/v1/ig2/06SZNJhocojxk4aeoAOtDFzXNVg-tg6VyuCVenwwsjG0Xo-6wLLak7B3NSJtD6gPS3C1gnKcpC_b4y9wLNNA_DVY.jpg?quality=95&as=32x42,48x63,72x94,108x141,160x209,240x313,360x469,480x626,526x686&from=bu&cs=526x0"
+      ],
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394304",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 1,
+      "original_url": "https://vk.com-83492255_394304",
+      "images": [
+        "https://sun9-6.vkuserphoto.ru/s/v1/ig2/hm68OSYaekOhXABomF9B6fxTxSiOSn2lUspzTYqbS8c6u_vBdRf1BmUc49ueye05y07alV5kzByhJWFKa2xfjGtmhq1Mrg.jpg?quality=96&as=32x27,48x40,72x60,108x90,160x133,240x200,360x300,480x400,540x450,640x534,720x600,1080x901,1280x1068,1440x1201,2000x1668&from=bu&cs=2000x0"
+      ],
+      "added_at": "2026-11-26T09:58:50.398742+00:00"
     }
   ]
 }
