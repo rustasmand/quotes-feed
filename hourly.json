@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T05:56:19.044500+00:00",
+  "updated_at": "2026-11-26T06:58:59.726186+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,65 +54,82 @@
   ],
   "quotes": [
     {
-      "id": "vk_smeh_u_rechki_159842",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 2,
-      "original_url": "https://vk.com-146746714_159842",
-      "images": [
-        "https://sun9-66.vkuserphoto.ru/s/v1/ig2/DYfkGGVypm9_igHTR8XvAh7oQd6-Tc-q0HUDTCLn-B7f8jQ_71hOl5REf-er603reC5NyyJjcyMAvySYn5ycVQXD.jpg?quality=96&as=32x42,48x63,72x94,108x141,160x209,240x314,360x471,480x628,540x706,640x837,720x942,786x1028&from=bu&cs=786x0"
-      ],
-      "added_at": "2026-11-26T05:56:19.044500+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159802",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 8,
-      "original_url": "https://vk.com-146746714_159802",
-      "images": [
-        "https://sun9-37.vkuserphoto.ru/s/v1/ig2/TlMTRA0swWUyKsLAt1Qj0iai33TmrCDS9mJxxbWite6jIrZ_NJA4RE4oBaHKCobNVcg8kKYIlNQOIzS-iYBarl8E.jpg?quality=96&as=32x40,48x61,72x91,108x136,160x202,240x303,360x454,480x605,540x681,640x807,720x908,1066x1344&from=bu&cs=1066x0",
-        "https://sun9-48.vkuserphoto.ru/s/v1/ig2/LDXTEM41dQ49hM6cIgMEduXk2V4paTpwxdnUjITtQLnL9ZdhUO-GxWMC7gRjpzI7IcDjZip-995GGVE2A4jXIV-n.jpg?quality=96&as=32x33,48x50,72x75,108x112,160x166,240x249,360x374,480x498,540x561,640x665,720x748,1080x1121,1095x1137&from=bu&cs=1095x0"
-      ],
-      "added_at": "2026-11-26T05:56:19.044500+00:00"
-    },
-    {
-      "id": "tg_ithumor_16173",
-      "source_id": "tg_ithumor",
-      "content": "",
-      "rating": 2391,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16173.jpg"
-      ],
-      "original_url": "https://t.me/ithumor/16173",
-      "added_at": "2026-11-26T05:56:19.044500+00:00",
-      "type": "image"
-    },
-    {
-      "id": "vk_prikol_sms_smex_394302",
-      "source_id": "vk_prikol_sms_smex",
-      "type": "image",
-      "content": "",
+      "id": "bash_470057",
+      "source_id": "bashorg_rf",
+      "type": "text",
+      "content": "softwarer> \"люди читают жопой\" (ц)\nau3> А чем же еще читать ваши опусы?\nsoftwarer> Лично я предпочитаю ходить ногами, делать руками, думать мозгами, кушать ртом и срать жопой. Но любой неадекватный человек, безусловно, имеет полное и неотъемлемое право поступать строго наоборот.",
       "rating": 1,
-      "original_url": "https://vk.com-83492255_394302",
-      "images": [
-        "https://sun9-7.vkuserphoto.ru/s/v1/ig2/Ga6fFfiZyKt_Oe6Xp1YiXsFqi9Vbw2sqP_IpgNF_rWrAG8NhnTn1_N84TmdVcAKO-_1_WMc80BuXqEWN8hCV2vR5.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x136,240x205,360x307,480x409,540x460,640x546,720x614,1080x921,1280x1091,1440x1227,1999x1704&from=bu&cs=1999x0"
-      ],
-      "added_at": "2026-11-26T05:56:19.044500+00:00"
+      "original_url": "https://башорг.рф/quote/470057",
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
     },
     {
-      "id": "vk_ygapchik_555723",
+      "id": "vk_ygapchik_555740",
       "source_id": "vk_ygapchik",
       "type": "image",
       "content": "",
-      "rating": 12,
-      "original_url": "https://vk.com-59595086_555723",
+      "rating": 11,
+      "original_url": "https://vk.com-59595086_555740",
       "images": [
-        "https://sun9-40.vkuserphoto.ru/s/v1/ig2/oTH_n1o82GiH305kVQDeXsV7lPbKJKIpesqrYBHLGXNGoxo1-RRz8HXAxF8H5o-fckeKVUhF9B2TtCCwFLAFpamI.jpg?quality=95&as=32x55,48x82,72x123,108x184,160x273,240x410,360x615,480x820,540x922,640x1093,720x1230,808x1380&from=bu&cs=808x0"
+        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/qOi-wmn3lMTqcsJ_JTswMmcG-x6_o0OVTk8ER11lNc73ilZ-PK33caHBoq78UvPjlUgPEPf65AH1oWrI7hQ16fi5T2CWFA.jpg?quality=95&as=32x53,48x80,72x120,108x180,160x267,240x400,360x600,480x801,540x901,640x1067,720x1201,1080x1801,1222x2038&from=bu&cs=1222x0"
       ],
-      "added_at": "2026-11-26T05:56:19.044500+00:00"
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394276",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 8,
+      "original_url": "https://vk.com-83492255_394276",
+      "images": [
+        "https://sun9-4.vkuserphoto.ru/s/v1/ig2/P3m-HGcWZvIvTfaaCZXmo4dcq3Gpkj0ZkvQ5cwH0-RXQAvSOip51cDBzG531mwnTsB4kR7s1C8B-FzIDBCtovF50.jpg?quality=96&as=32x25,48x37,72x56,108x84,160x125,240x187,360x281,480x374,540x421,640x499,720x562,1080x842,1280x998,1440x1123,2000x1560&from=bu&cs=2000x0"
+      ],
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
+    },
+    {
+      "id": "tg_ithumor_16167",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 9686,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16167.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16167",
+      "added_at": "2026-11-26T06:58:59.726186+00:00",
+      "type": "image"
+    },
+    {
+      "id": "bash_470095",
+      "source_id": "bashorg_rf",
+      "type": "text",
+      "content": "Приехал внучок к бабушке в далёкую деревню. \n- как доехал? \n- бабуль! Мы так ехали, так ехали! И по речке и ебу раком! \n- Буеракам! Вася! Буеракам!",
+      "rating": 10,
+      "original_url": "https://башорг.рф/quote/470095",
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394289",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 12,
+      "original_url": "https://vk.com-83492255_394289",
+      "images": [
+        "https://sun9-6.vkuserphoto.ru/s/v1/ig2/o5TOvt3bBqmFvGR40OgLgGN4U74R7yfIUXMGwXE5hBE_VNRan6LcecDwogm5sDX9Shlvm1ebQNkmlLBjsRfmSOLx.jpg?quality=96&as=32x38,48x57,72x85,108x128,160x189,240x284,360x426,480x567,540x638,640x757,720x851,769x909&from=bu&cs=769x0"
+      ],
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
+    },
+    {
+      "id": "vk_jokesss_422021",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 9,
+      "original_url": "https://vk.com-28468381_422021",
+      "images": [
+        "https://sun9-55.vkuserphoto.ru/s/v1/ig2/KTdTb_N0f24wZGo8jPYmY_E_gWZdQqUEDwIwamlTMlcMvBpNmuWpzUnQaWYnoUY4m3_G7AEHiL58A218HwbPgA6e.jpg?quality=95&crop=0,0,1080,1259&as=32x37,48x56,72x84,108x126,160x187,240x280,360x420,480x560,540x629,640x746,720x839,1080x1259&from=bu&cs=1080x0"
+      ],
+      "added_at": "2026-11-26T06:58:59.726186+00:00"
     }
   ]
 }
