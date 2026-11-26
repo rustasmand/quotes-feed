@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-26T13:00:37.273175+00:00",
+  "updated_at": "2026-11-26T14:19:09.074285+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,88 +54,316 @@
   ],
   "quotes": [
     {
-      "id": "vk_ygapchik_555847",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 12,
-      "original_url": "https://vk.com-59595086_555847",
-      "images": [
-        "https://sun9-50.vkuserphoto.ru/s/v1/ig2/Sm_VdftI6Cm75TxPuks9P71qVrYnXNrrK9x9nvoJvLLzJlXCrgTcu8qgXXZrhz5W9lw4Qrrpog5OeeHB48_mFKvA.jpg?quality=95&as=32x47,48x70,72x105,108x157,160x233,240x349,360x524,480x699,540x786,640x932,720x1048,1080x1572,1124x1636&from=bu&cs=1124x0"
-      ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
-    },
-    {
-      "id": "vk_ostroumor_872300",
-      "source_id": "vk_ostroumor",
-      "type": "image",
-      "content": "",
-      "rating": 123,
-      "original_url": "https://vk.com-93463988_872300",
-      "images": [
-        "https://sun9-4.vkuserphoto.ru/s/v1/ig2/wNh-Xf6GRuSVeMhfd8YaAMISkX9hqNSi3xWRTAC5BDwq6rvGePjZIzo4i9ebq8cDpG8H1Yh2_qNsnd6nBhC_xAmu.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
-      ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
-    },
-    {
-      "id": "vk_ygapchik_555867",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 0,
-      "original_url": "https://vk.com-59595086_555867",
-      "images": [
-        "https://sun9-61.vkuserphoto.ru/s/v1/ig2/L86AwvWITKzz7xriVCJjpK4j3ERhaOtyAauWcjHi7DEPSXv4ciQX3SnHaGskn5vfKSAN8kyMdpXiJlRpM80Olexf.jpg?quality=95&as=32x26,48x40,72x59,108x89,160x132,240x198,360x297,480x396,540x446,640x528,720x594,882x728&from=bu&cs=882x0"
-      ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159857",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 0,
-      "original_url": "https://vk.com-146746714_159857",
-      "images": [
-        "https://sun9-66.vkuserphoto.ru/s/v1/ig2/ualY4jVr0EJewn88kU_BY-mktxIS5jgK19bfx24jGUO71tfaPW-8pTRCJTa66ETtpWFUrrL4nUh8BM7BU39BU2BL.jpg?quality=96&as=32x32,48x47,72x71,108x107,160x158,240x237,360x355,480x473,540x533,640x631,659x650&from=bu&cs=659x0"
-      ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159816",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 5,
-      "original_url": "https://vk.com-146746714_159816",
-      "images": [
-        "https://sun9-80.vkuserphoto.ru/s/v1/ig2/IAfvvZi_uHcMFbQykbLlLZJgvxdAzasPlr52DaGFFBEmAV0jFL_E0BVr6NpbQg5cSzmTmlRiAVoxiTRu07c8JLmQ.jpg?quality=96&as=32x41,48x61,72x91,108x137,160x203,240x304,360x456,480x608,483x612&from=bu&cs=483x0"
-      ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
-    },
-    {
-      "id": "tg_ithumor_16170",
+      "id": "tg_ithumor_16153",
       "source_id": "tg_ithumor",
       "content": "",
-      "rating": 9500,
+      "rating": 10632,
       "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16170.jpg"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16153.jpg"
       ],
-      "original_url": "https://t.me/ithumor/16170",
-      "added_at": "2026-11-26T13:00:37.273175+00:00",
+      "original_url": "https://t.me/ithumor/16153",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
       "type": "image"
     },
     {
-      "id": "vk_ostroumor_872572",
-      "source_id": "vk_ostroumor",
-      "type": "mixed",
-      "content": "МУПП «Саратовводоканал» заключило контракт на «клинья деревянные» — 38 тыс. штук столярной мелочи, которую по-простому зовут «чопиками». Цена вопроса — 509,2 тыс. руб.: 63,52 тыс. руб. в 2026 году и 445,68 тыс. руб. в 2027-м. Подрядчик в карточке договора не указан, срок исполнения — 31 июля 2027 года.\n\nДанные о закупке в ЕИС «Госзакупки» найти не удалось, зато каждая закупка клиньев у водоканала шла по ФЗ-223. Этот закон оставляет заказчику право не публиковать в ЕИС подробности закупки и договора.",
-      "rating": 0,
-      "original_url": "https://vk.com-93463988_872572",
+      "id": "tg_ithumor_16148",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11911,
       "images": [
-        "https://sun9-55.vkuserphoto.ru/s/v1/ig2/eh2EPZ08FkopjGtiB1Dp5q_6A_vR6hSY4UX0yseiNdDrEsz7JJRbzm1_Yt2qQoYSfBY6iVKLYW89HIO41yKjnaUI.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x137,240x205,360x307,480x410,540x461,640x546,720x614,1080x922,1200x1024&from=bu&cs=1200x0"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16148.jpg"
       ],
-      "added_at": "2026-11-26T13:00:37.273175+00:00"
+      "original_url": "https://t.me/ithumor/16148",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16151",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10370,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16151.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16151",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16158",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11606,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16158.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16158",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16159",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10702,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16159.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16159",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16157",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10636,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16157.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16157",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16146",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11572,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16146.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16146",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16154",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10912,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16154.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16154",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16155",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10666,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16155.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16155",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_ygapchik_479951",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 951,
+      "original_url": "https://vk.com-59595086_479951",
+      "images": [
+        "https://sun9-50.vkuserphoto.ru/s/v1/ig2/8WD4X3CXajVmSkjM_CZNIbbO6-rJ2ElKNkUOTltsIRpgQWUroQiFHREJE34pU3m5F0OhLg2OrS9bG5BgDIhgXdGP.jpg?quality=95&as=32x41,48x62,72x93,108x139,160x206,240x309,360x463,444x571&from=bu&cs=444x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "tg_ithumor_16161",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 12754,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16161.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16161",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_jokesss_421936",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 92,
+      "original_url": "https://vk.com-28468381_421936",
+      "images": [
+        "https://sun9-7.vkuserphoto.ru/s/v1/ig2/L8OdSg0HrUYG93RDOolzIJsfDeRW5pB2zRquZA5nCIV9R12WWYLsjEd1tnQqJih6kGX9Y63p5k00Wqcu2zy0Co6g5W14Ug.jpg?quality=95&crop=0,0,1080,1440&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,480x640,540x720,640x853,720x960,1080x1440&from=bu&cs=1080x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "tg_ithumor_16150",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10754,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16150.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16150",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16163",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11403,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16163.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16163",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16149",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11756,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16149.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16149",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "tg_ithumor_16162",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 10863,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16162.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16162",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_jokesss_421902",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 265,
+      "original_url": "https://vk.com-28468381_421902",
+      "images": [
+        "https://sun9-72.vkuserphoto.ru/s/v1/ig2/ytka-rIi8L8OH3vsG0eexwTFQb1Snfg-6HauOqnonMJWey4piy-MeiML09hQFRCioSJZXXvqSPG85MCTNy8HUaB2j0a3-A.jpg?quality=95&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,720x1080,1024x1536&from=bu&cs=1024x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "tg_ithumor_16160",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11224,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16160.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16160",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_jokesss_421916",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 99,
+      "original_url": "https://vk.com-28468381_421916",
+      "images": [
+        "https://sun9-70.vkuserphoto.ru/s/v1/ig2/_pZNTKCv0X-ACv2I_FH22A6u4riv85BBktIXHDzDvT6TxMnN8N5GruMBNu5YbnrsUsphWlAhUZMUM5zMxlz-w-ov.jpg?quality=95&crop=3,0,794,794&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,794x794&from=bu&cs=794x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159817",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 1,
+      "original_url": "https://vk.com-146746714_159817",
+      "images": [
+        "https://sun9-72.vkuserphoto.ru/s/v1/ig2/lFlddxVi2FuSQ-Nx6N_ZmEcmXh9D2d1hHTkfiq8wJYeNYzecUBziEOh_ETYiV5KMEclnpKeFkrLY_c4fygQ-0CXY.jpg?quality=96&as=32x38,48x56,72x85,108x127,160x188,240x282,360x423,480x564,540x635,616x724&from=bu&cs=616x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "vk_jokesss_421907",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 148,
+      "original_url": "https://vk.com-28468381_421907",
+      "images": [
+        "https://sun9-54.vkuserphoto.ru/s/v1/ig2/8zshY0JSO1x6d4lwIKbZetEHQa6WVfsqz0I4sjWEdfpEDX7XZpxh-zzzgh-c6rtR6jJm8kbXx6r3xDDzEP2kw5uN.jpg?quality=95&crop=0,0,628,894&as=32x46,48x68,72x102,108x154,160x228,240x342,360x512,480x683,540x769,628x894&from=bu&cs=628x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "tg_ithumor_16156",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 11639,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16156.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16156",
+      "added_at": "2026-11-26T14:19:09.074285+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_jokesss_421910",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 397,
+      "original_url": "https://vk.com-28468381_421910",
+      "images": [
+        "https://sun9-49.vkuserphoto.ru/s/v1/ig2/Auqmkmfm294xxMMsCXXkq0aHWW5nSf_tiRqTCTn_UtT8bDimCWACGD32OZDhPiAsjh79S1uY70Xb329XdIqxiCaTgwAsLw.jpg?quality=95&crop=0,0,579,651&as=32x36,48x54,72x81,108x121,160x180,240x270,360x405,480x540,540x607,579x651&from=bu&cs=579x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "vk_ygapchik_555876",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 0,
+      "original_url": "https://vk.com-59595086_555876",
+      "images": [
+        "https://sun9-72.vkuserphoto.ru/s/v1/ig2/Sarycq7298JM7L3aBK5PauXjAzcmZOEGbksC8AZac0__uREnmzp57NEHvf1ztkYf1j419cjAZ-6D7aPavfAGeRie.jpg?quality=95&as=32x42,48x63,72x94,108x141,160x209,240x313,360x469,480x626,540x704,640x835,720x939,842x1098&from=bu&cs=842x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "vk_jokesss_421892",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 467,
+      "original_url": "https://vk.com-28468381_421892",
+      "images": [
+        "https://sun9-83.vkuserphoto.ru/s/v1/ig2/RlA7B0lJJeMaO7HnXF3Fc0ixbKA1Xi0OCXddgagGvptagumr2n1pWYUnqFvQouCWufX4-_2AB_ggCrSyEtC8Sse6.jpg?quality=95&crop=0,0,1030,1243&as=32x39,48x58,72x87,108x130,160x193,240x290,360x434,480x579,540x652,640x772,720x869,1030x1243&from=bu&cs=1030x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394306",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 1,
+      "original_url": "https://vk.com-83492255_394306",
+      "images": [
+        "https://sun9-16.vkuserphoto.ru/s/v1/ig2/d2o-LFBJ3j3wrHmE8s6hfFeiYPs2M7ERw3eGaF-bNniGn4DmZ8EMVekDFWI37M9PY-KeEZ6-p2zB1dIgxg-dnsD_.jpg?quality=96&as=32x34,48x51,72x77,108x115,160x171,240x256,360x385,480x513,540x577,640x684,720x769,778x831&from=bu&cs=778x0"
+      ],
+      "added_at": "2026-11-26T14:19:09.074285+00:00"
     }
   ]
 }
