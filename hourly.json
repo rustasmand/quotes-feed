@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-27T12:58:56.812843+00:00",
+  "updated_at": "2026-11-27T14:16:12.745960+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,76 +54,100 @@
   ],
   "quotes": [
     {
-      "id": "tg_ithumor_16180",
+      "id": "tg_ithumor_16170",
       "source_id": "tg_ithumor",
       "content": "",
-      "rating": 3482,
+      "rating": 10374,
       "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16180.jpg"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16170.jpg"
       ],
-      "original_url": "https://t.me/ithumor/16180",
-      "added_at": "2026-11-27T12:58:56.812843+00:00",
+      "original_url": "https://t.me/ithumor/16170",
+      "added_at": "2026-11-27T14:16:12.745960+00:00",
       "type": "image"
     },
     {
-      "id": "tg_ithumor_16175",
-      "source_id": "tg_ithumor",
-      "content": "",
-      "rating": 8841,
-      "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16175.jpg"
-      ],
-      "original_url": "https://t.me/ithumor/16175",
-      "added_at": "2026-11-27T12:58:56.812843+00:00",
-      "type": "image"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159852",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 6,
-      "original_url": "https://vk.com/wall-146746714_159852",
-      "images": [
-        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/VUyD9-q9nyUnItSna0ylFccQGJ-m8VGg2IaQ1xohLisDeu0Ly-Swmdt4NSxueO5OXqY11aukk0vZdWD0lcrI-8ez.jpg?quality=96&as=32x21,48x31,72x47,108x70,160x104,240x156,360x234,480x312,540x350,640x415,720x467,849x551&from=bu&cs=849x0"
-      ],
-      "added_at": "2026-11-27T12:58:56.812843+00:00"
-    },
-    {
-      "id": "vk_ygapchik_556204",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 20,
-      "original_url": "https://vk.com/wall-59595086_556204",
-      "images": [
-        "https://sun9-62.vkuserphoto.ru/s/v1/ig2/C3fxWaeJNnP4xHbMINHEJdWuDKbZQyrrBVadlvar_s2lwHdhqCMm7jSIeodUnSsoMMBANjlFawhigoOZVJHbcbdN.jpg?quality=95&as=32x37,48x55,72x83,108x124,160x184,240x277,360x415,480x553,540x622,640x738,681x785&from=bu&cs=681x0"
-      ],
-      "added_at": "2026-11-27T12:58:56.812843+00:00"
-    },
-    {
-      "id": "vk_ostroumor_872520",
+      "id": "vk_ostroumor_872300",
       "source_id": "vk_ostroumor",
       "type": "image",
       "content": "",
-      "rating": 1332,
-      "original_url": "https://vk.com/wall-93463988_872520",
+      "rating": 149,
+      "original_url": "https://vk.com/wall-93463988_872300",
       "images": [
-        "https://sun9-64.vkuserphoto.ru/s/v1/ig2/-kqkUqnhFKHUjm4XTg3Cekl7HhSJd03V5K9QBiMHxfZDZu8_dUiI_2W-Bmw_C4Tq5uQITwbkWKLyMqJd4CNHU8nv.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
+        "https://sun9-4.vkuserphoto.ru/s/v1/ig2/GHxTvuCaL5utTBb8B_rOco1XPus57V1gtTqeWNMa3M9FZ9Q7DRJ2S6asjZrOvihpZCExWCmMGodwxLEOrDRGKNjCY_207g.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
       ],
-      "added_at": "2026-11-27T12:58:56.812843+00:00"
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
     },
     {
-      "id": "vk_jokesss_421983",
-      "source_id": "vk_jokesss",
+      "id": "vk_smeh_u_rechki_159857",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 5,
+      "original_url": "https://vk.com/wall-146746714_159857",
+      "images": [
+        "https://sun9-66.vkuserphoto.ru/s/v1/ig2/ualY4jVr0EJewn88kU_BY-mktxIS5jgK19bfx24jGUO71tfaPW-8pTRCJTa66ETtpWFUrrL4nUh8BM7BU39BU2BL.jpg?quality=96&as=32x32,48x47,72x71,108x107,160x158,240x237,360x355,480x473,540x533,640x631,659x650&from=bu&cs=659x0"
+      ],
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
+    },
+    {
+      "id": "vk_ostroumor_872572",
+      "source_id": "vk_ostroumor",
+      "type": "mixed",
+      "content": "МУПП «Саратовводоканал» заключило контракт на «клинья деревянные» — 38 тыс. штук столярной мелочи, которую по-простому зовут «чопиками». Цена вопроса — 509,2 тыс. руб.: 63,52 тыс. руб. в 2026 году и 445,68 тыс. руб. в 2027-м. Подрядчик в карточке договора не указан, срок исполнения — 31 июля 2027 года.\n\nДанные о закупке в ЕИС «Госзакупки» найти не удалось, зато каждая закупка клиньев у водоканала шла по ФЗ-223. Этот закон оставляет заказчику право не публиковать в ЕИС подробности закупки и договора.",
+      "rating": 166,
+      "original_url": "https://vk.com/wall-93463988_872572",
+      "images": [
+        "https://sun9-55.vkuserphoto.ru/s/v1/ig2/eh2EPZ08FkopjGtiB1Dp5q_6A_vR6hSY4UX0yseiNdDrEsz7JJRbzm1_Yt2qQoYSfBY6iVKLYW89HIO41yKjnaUI.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x137,240x205,360x307,480x410,540x461,640x546,720x614,1080x922,1200x1024&from=bu&cs=1200x0"
+      ],
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
+    },
+    {
+      "id": "vk_ygapchik_556246",
+      "source_id": "vk_ygapchik",
       "type": "image",
       "content": "",
-      "rating": 58,
-      "original_url": "https://vk.com/wall-28468381_421983",
+      "rating": 4,
+      "original_url": "https://vk.com/wall-59595086_556246",
       "images": [
-        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/mnLk3-1l6FiXx4i1Q5onMPxF_ZHjY2hDhMHriSiV0hmsRFuRZz0yEUxJwbfZUm1zi8vG4icpXyZNkUydTuy9aQ4y.jpg?quality=95&crop=0,0,1079,1224&as=32x36,48x54,72x82,108x123,160x181,240x272,360x408,480x544,540x613,640x726,720x817,1079x1224&from=bu&cs=1079x0"
+        "https://sun9-84.vkuserphoto.ru/s/v1/ig2/iL3ZMWwQR-DIRcu_JTlcOCmW7R9BR9GWMyTgdz1ENDok0xOaavbXDc18A1yW7dOHSyITStsMgOhS0KzNcP6pTvF2.jpg?quality=95&as=32x55,48x82,72x123,108x184,160x273,240x410,360x615,480x820,540x922,640x1093,720x1230,808x1380&from=bu&cs=808x0"
       ],
-      "added_at": "2026-11-27T12:58:56.812843+00:00"
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159894",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 1,
+      "original_url": "https://vk.com/wall-146746714_159894",
+      "images": [
+        "https://sun9-38.vkuserphoto.ru/s/v1/ig2/d3Ub5Gior24CMhoyvy6zi5tM8VeazBuGwpzp-92f47rf7IxIPClRoea8AYZEJjgAEBpRnely5pqca0swZWXJbb4g.jpg?quality=96&as=32x32,48x47,72x71,108x107,160x158,240x237,360x355,480x473,540x533,640x631,720x710,1080x1065,1280x1262,1309x1291&from=bu&cs=1309x0"
+      ],
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394319",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 1,
+      "original_url": "https://vk.com/wall-83492255_394319",
+      "images": [
+        "https://sun9-6.vkuserphoto.ru/s/v1/ig2/1Ubf5uJH76Z07X2gEYyufkGOPGfXQlYHz7Alq910RoeZ5PrxzoJEO4YDIaRwUjG_YEz29ZpXoW7O_t0akuIdi69Z.jpg?quality=96&as=32x37,48x55,72x82,108x124,160x183,240x274,360x412,480x549,540x618,640x732&from=bu&cs=640x0"
+      ],
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
+    },
+    {
+      "id": "vk_ygapchik_556226",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 12,
+      "original_url": "https://vk.com/wall-59595086_556226",
+      "images": [
+        "https://sun9-53.vkuserphoto.ru/s/v1/ig2/JUZq7pspLicU1CfqqQlyf8_egeWAjt94lJIry0EB1E9xedNIOn9bpW30uyOu8GfgUHXIDeoc6RAYgZOPTm3bJgoI.jpg?quality=95&as=32x45,48x67,72x100,108x151,160x223,240x335,344x480&from=bu&cs=344x0"
+      ],
+      "added_at": "2026-11-27T14:16:12.745960+00:00"
     }
   ]
 }
