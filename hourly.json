@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T08:10:48.315485+00:00",
+  "updated_at": "2026-11-28T09:44:21.012629+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,139 +54,97 @@
   ],
   "quotes": [
     {
-      "id": "vk_ostroumor_872802",
+      "id": "vk_ostroumor_872452",
       "source_id": "vk_ostroumor",
       "type": "image",
       "content": "",
-      "rating": 763,
-      "original_url": "https://vk.com/wall-93463988_872802",
+      "rating": 189,
+      "original_url": "https://vk.com/wall-93463988_872452",
       "images": [
-        "https://sun9-8.vkuserphoto.ru/s/v1/ig2/VVNgObQsnmRo64i_g01E1pGRbTBfUD7TcIxojd9gmc7ykJsxE7tQlOCa_nKJxcKEYCv6zKHoUE4_FdRyB-dUxLRPCaherg.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
+        "https://sun9-53.vkuserphoto.ru/s/v1/ig2/5T2JEHVIjToFuSTpgW2jQSgoQvundgWpc4K_tIe39R8K8HVFHGK6b3lkFxlAGmaGrnSZ_8KRR4NVTrH3PEO1apG5Gp3w6Q.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
       ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
     },
     {
-      "id": "bash_470096",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "Снежа: Внезапно вспомнилось из какой-то не то игры, не то литературы название города Эльсвейр. Это ж что получается, \"Зажопье\" с английского else where?\nЭльфийский город Эльсвейр.\nГномье Королевство Зонство (с нем. sonst wo – где-то там).\nОрочье племя Тамдэтто (там где-то) ииии исследовательское поселение Беня.",
-      "rating": 13,
-      "original_url": "https://башорг.рф/quote/470096",
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_ygapchik_556525",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 13,
-      "original_url": "https://vk.com/wall-59595086_556525",
-      "images": [
-        "https://sun9-71.vkuserphoto.ru/s/v1/ig2/18FZlP2wN-DsyGSHXjamOM8y1K-cjE4xIHBhayFOo8t7QGm1tIPRpy8ukY6U01Erx7Uu1OTecRYUhT65QnZSOEB1WJOWzA.jpg?quality=95&as=32x45,48x67,72x101,108x152,160x225,240x337,360x505,480x674,540x758,640x898,720x1010,808x1134&from=bu&cs=808x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_prikol_sms_smex_394289",
-      "source_id": "vk_prikol_sms_smex",
-      "type": "image",
-      "content": "",
-      "rating": 14,
-      "original_url": "https://vk.com/wall-83492255_394289",
-      "images": [
-        "https://sun9-6.vkuserphoto.ru/s/v1/ig2/03VtBLbeYI5wBDHKLwpx05SimMTDY_9817jHZ0pca7TZtDw38FtDx8nT8MIHBXNvYiU40JI1UPVuPDfg7tNLCzOjZ8Qeiw.jpg?quality=96&as=32x38,48x57,72x85,108x128,160x189,240x284,360x426,480x567,540x638,640x757,720x851,769x909&from=bu&cs=769x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "bash_470095",
-      "source_id": "bashorg_rf",
-      "type": "text",
-      "content": "Приехал внучок к бабушке в далёкую деревню. \n- как доехал? \n- бабуль! Мы так ехали, так ехали! И по речке и ебу раком! \n- Буеракам! Вася! Буеракам!",
-      "rating": 15,
-      "original_url": "https://башорг.рф/quote/470095",
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159923",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 1,
-      "original_url": "https://vk.com/wall-146746714_159923",
-      "images": [
-        "https://sun9-15.vkuserphoto.ru/s/v1/ig2/tFWHlBF0zxpUbm4MudzfFprt1o56Mkl82MX_Y7dT1PKld-Mqy7BfXAFG0d7J5XW82W_hUOTEFlG1nDZTBlqmqI9x.jpg?quality=96&as=32x45,48x68,72x102,108x154,160x228,240x341,360x512,480x683,540x768,640x910,647x920&from=bu&cs=647x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_ygapchik_556544",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 4,
-      "original_url": "https://vk.com/wall-59595086_556544",
-      "images": [
-        "https://sun9-15.vkuserphoto.ru/s/v1/ig2/fHJqa6MPeduYKkcNbhQN4FS11lGG7J3AVaa38ty38VhzLDYYjncMXq7x8s3pABXJxx7fx95KbLakFtxcttIsE3h9.jpg?quality=95&as=32x41,48x61,72x92,108x138,160x205,240x307,360x461,480x615,540x692,640x820,720x922,808x1035&from=bu&cs=808x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_jokesss_422021",
-      "source_id": "vk_jokesss",
-      "type": "image",
-      "content": "",
-      "rating": 231,
-      "original_url": "https://vk.com/wall-28468381_422021",
-      "images": [
-        "https://sun9-55.vkuserphoto.ru/s/v1/ig2/KTdTb_N0f24wZGo8jPYmY_E_gWZdQqUEDwIwamlTMlcMvBpNmuWpzUnQaWYnoUY4m3_G7AEHiL58A218HwbPgA6e.jpg?quality=95&crop=0,0,1080,1259&as=32x37,48x56,72x84,108x126,160x187,240x280,360x420,480x560,540x629,640x746,720x839,1080x1259&from=bu&cs=1080x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_ostroumor_873078",
-      "source_id": "vk_ostroumor",
-      "type": "image",
-      "content": "",
-      "rating": 13,
-      "original_url": "https://vk.com/wall-93463988_873078",
-      "images": [
-        "https://sun9-45.vkuserphoto.ru/s/v1/ig2/yaxdhtE8-fgakDpXBrzQqXCGQBgrCkEQN9sGoin_49XoFCLh7E8Oi9GEIZQKYD3MiXEC_L5QmtncLUh_FtvOFZFE.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159882",
-      "source_id": "vk_smeh_u_rechki",
-      "type": "mixed",
-      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 6,
-      "original_url": "https://vk.com/wall-146746714_159882",
-      "images": [
-        "https://sun9-49.vkuserphoto.ru/s/v1/ig2/QfofCp-XVR6VlWixepOZlo1_wy5CdQ-6p---H_rBihNmOSkjnWHBdAD9D5iL4MvJg-YAlGqjwCzdrjN5vYFEi3hc.jpg?quality=96&as=32x31,48x47,72x70,108x106,160x157,240x235,360x352,480x470,540x528,640x626,720x705,1080x1057,1280x1253,1306x1278&from=bu&cs=1306x0"
-      ],
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
-    },
-    {
-      "id": "tg_ithumor_16167",
+      "id": "tg_ithumor_16174",
       "source_id": "tg_ithumor",
       "content": "",
-      "rating": 11135,
+      "rating": 12466,
       "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16167.jpg"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16174.jpg"
       ],
-      "original_url": "https://t.me/ithumor/16167",
-      "added_at": "2026-11-28T08:10:48.315485+00:00",
+      "original_url": "https://t.me/ithumor/16174",
+      "added_at": "2026-11-28T09:44:21.012629+00:00",
       "type": "image"
     },
     {
-      "id": "bash_470057",
+      "id": "tg_ithumor_16184",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 3489,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16184.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16184",
+      "added_at": "2026-11-28T09:44:21.012629+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_ygapchik_556556",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 9,
+      "original_url": "https://vk.com/wall-59595086_556556",
+      "images": [
+        "https://sun9-81.vkuserphoto.ru/s/v1/ig2/SjmOLmaU0mzv2u0SO4fbqp6nSnYXBIxQKrwAI9313-0efXGEIJiMJyf-zv0P4JB5776662TtvgL7pt6QX0HVMYC5.jpg?quality=95&as=32x41,48x61,72x91,108x137,160x203,240x305,360x457,424x538&from=bu&cs=424x0"
+      ],
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
+    },
+    {
+      "id": "bash_470094",
       "source_id": "bashorg_rf",
       "type": "text",
-      "content": "softwarer> \"люди читают жопой\" (ц)\nau3> А чем же еще читать ваши опусы?\nsoftwarer> Лично я предпочитаю ходить ногами, делать руками, думать мозгами, кушать ртом и срать жопой. Но любой неадекватный человек, безусловно, имеет полное и неотъемлемое право поступать строго наоборот.",
+      "content": "xxx: Судя по последним событиям кто-то в небесной канцелярии случайно удалили сценарий моей жизни загрузив вместо него пак мемов...",
+      "rating": 28,
+      "original_url": "https://башорг.рф/quote/470094",
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
+    },
+    {
+      "id": "vk_jokesss_422075",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 77,
+      "original_url": "https://vk.com/wall-28468381_422075",
+      "images": [
+        "https://sun9-56.vkuserphoto.ru/s/v1/ig2/teqRfAqip3_0eo1cZOC2r8lF2vORZ3_z7Zrm8QSX49wXc6RSNrLq2XUE3Dmpfoc7GpODVVeg3xap3tuA8VtT8jHz.jpg?quality=95&crop=4,0,692,865&as=32x40,48x60,72x90,108x135,160x200,240x300,360x450,480x600,540x675,640x800,692x865&from=bu&cs=692x0"
+      ],
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394331",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
       "rating": 1,
-      "original_url": "https://башорг.рф/quote/470057",
-      "added_at": "2026-11-28T08:10:48.315485+00:00"
+      "original_url": "https://vk.com/wall-83492255_394331",
+      "images": [
+        "https://sun9-46.vkuserphoto.ru/s/v1/ig2/7zCVTyBNZeRMsFn5k_9vcSOCSDfhcos_4GmvzAOHSrJN9TukgWOXWe4JGvG5Fgg83htDpkJIBAFHq-Jiwrh0jwBs.jpg?quality=96&as=32x27,48x40,72x60,108x91,160x134,240x202,360x302,480x403,540x454,640x538,700x588&from=bu&cs=700x0"
+      ],
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159928",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 0,
+      "original_url": "https://vk.com/wall-146746714_159928",
+      "images": [
+        "https://sun9-38.vkuserphoto.ru/s/v1/ig2/uZlzsUzRL4ZWlDAbq4p3eVRvHSwapppoTruTSWdX6dfU7vQV7k1kqzFinTsCES5DpUBrESfMdnv7KDEUQ5YgE52N.jpg?quality=96&as=32x46,48x70,72x104,108x157,160x232,240x348,360x522,421x611&from=bu&cs=421x0"
+      ],
+      "added_at": "2026-11-28T09:44:21.012629+00:00"
     }
   ]
 }
