@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T02:12:31.923613+00:00",
+  "updated_at": "2026-11-28T03:47:35.030309+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,55 +54,109 @@
   ],
   "quotes": [
     {
-      "id": "vk_ygapchik_556443",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 4,
-      "original_url": "https://vk.com/wall-59595086_556443",
+      "id": "vk_ostroumor_872740",
+      "source_id": "vk_ostroumor",
+      "type": "mixed",
+      "content": "Гендиректор SpaceX Илон Маск пообещал каждому ребенку в США по две акции SpaceX. В переводе с биржевого на детсадовский это две ценные бумаги на ребенка: не конфета и не игрушка, а корпоративная доля в личном портфеле. Слово «акции» здесь означает не подвиги, а ценные бумаги SpaceX, поэтому обещание звучит как подарок на утреннике с квартальной отчетностью.",
+      "rating": 22,
+      "original_url": "https://vk.com/wall-93463988_872740",
       "images": [
-        "https://sun9-51.vkuserphoto.ru/s/v1/ig2/xzgB1xfH6n-68iJrK3YznBJHAeENEJ1lfJ5BaKHojwm19HpTA8H8-EN00hQH2DPCfwYgxeMhNTgmhNh_6XU4ibr99PgXSA.jpg?quality=95&as=32x42,48x63,72x94,108x141,160x209,240x313,360x469,480x626,540x704,640x834,720x938,808x1053&from=bu&cs=808x0"
+        "https://sun9-37.vkuserphoto.ru/s/v1/ig2/8pBT4jHBXyOqLOMbIOfbSJ-e8u8umFq0SoAbxjKPbqPwn_yNxaoZ2WcF0tSLFhxK-xr4v_8gaZmNj2VNkC1oT2l5vLRZnQ.jpg?quality=96&as=32x25,48x37,72x56,108x84,160x124,240x187,360x280,480x373,540x420,640x498,720x560,1080x840,1280x995,1440x1120,1600x1244&from=bu&cs=1600x0"
       ],
-      "added_at": "2026-11-28T02:12:31.923613+00:00"
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
     },
     {
-      "id": "vk_prikol_sms_smex_394325",
+      "id": "vk_ostroumor_873031",
+      "source_id": "vk_ostroumor",
+      "type": "image",
+      "content": "",
+      "rating": 1,
+      "original_url": "https://vk.com/wall-93463988_873031",
+      "images": [
+        "https://sun9-72.vkuserphoto.ru/s/v1/ig2/DIQcJk02V4vfrwHOPx0DZYk_Ubud0Z1_rPSz9g23vSNQlhbVUxm_BjtvEkFDBcnIudmMZZQduR3Sbl6hjnLhe-xJ.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,765x765&from=bu&cs=765x0"
+      ],
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394313",
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 3,
-      "original_url": "https://vk.com/wall-83492255_394325",
+      "rating": 10,
+      "original_url": "https://vk.com/wall-83492255_394313",
       "images": [
-        "https://sun9-77.vkuserphoto.ru/s/v1/ig2/r95Opl81fholZBRn4cu-KNAEoKLeMNV-n302iIEUobrFBh2XNraTdIfoJeW6yoJclzfXw66rX7Pg9NhqUZ70YfLK.jpg?quality=96&as=32x48,48x72,72x108,108x162,160x240,240x360,360x540,480x720,540x810,640x960,695x1043&from=bu&cs=695x0"
+        "https://sun9-82.vkuserphoto.ru/s/v1/ig2/wKlqtdfJi_3pR7SyGZTBwX2wDIVxkuLlen98RAoozcF-0y_mak5M5XzybcvEoU9vbIdlUR8CjfndmykR8UZf8YZwtROfwQ.jpg?quality=96&as=32x35,48x52,72x78,108x116,160x173,240x259,360x388,480x518,540x582,640x690,700x755&from=bu&cs=700x0"
       ],
-      "added_at": "2026-11-28T02:12:31.923613+00:00"
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
     },
     {
-      "id": "vk_smeh_u_rechki_159914",
+      "id": "vk_jokesss_422132",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 6,
+      "original_url": "https://vk.com/wall-28468381_422132",
+      "images": [
+        "https://sun9-85.vkuserphoto.ru/s/v1/ig2/-hWNUNlXpPoqsY1R7iuLN_BoFejR-c-NFLuIvbGWvYqycgr4ZSFZS_Yy0uOlqKahDSXh-62QKuWlPYvzNdPLM7bP.jpg?quality=95&as=32x45,48x68,72x101,108x152,160x226,240x338,360x507,480x677,540x761,640x902,720x1015,908x1280&from=bu&cs=908x0"
+      ],
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159875",
+      "source_id": "vk_smeh_u_rechki",
+      "type": "mixed",
+      "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
+      "rating": 3,
+      "original_url": "https://vk.com/wall-146746714_159875",
+      "images": [
+        "https://sun9-66.vkuserphoto.ru/s/v1/ig2/t8Uv2_YqAmbwEqJmQOLliWb1roDAbuYOJqzRz_Ma874dumba5uL9tP5wCUYcgUAR7MiZiIvZ_wmsZBMPmQIKW4-P.jpg?quality=96&as=32x24,48x37,72x55,108x82,160x122,240x183,360x274,480x365,540x411,640x487,720x548,1080x822,1214x924&from=bu&cs=1214x0"
+      ],
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
+    },
+    {
+      "id": "vk_smeh_u_rechki_159917",
       "source_id": "vk_smeh_u_rechki",
       "type": "mixed",
       "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
       "rating": 1,
-      "original_url": "https://vk.com/wall-146746714_159914",
+      "original_url": "https://vk.com/wall-146746714_159917",
       "images": [
-        "https://sun9-64.vkuserphoto.ru/s/v1/ig2/XByhlmW-G-qGDq0eKQ3mhplMuAaM0dN66cHCAvrPTJkvYhjgjZ5m2W1DwQAm2vmYxrDHUYpBGmv1HfFJtx2Mjw_YB0_ymQ.jpg?quality=96&as=32x32,48x48,72x71,108x107,160x159,240x238,360x357,480x477,540x536,640x635,720x715,975x968&from=bu&cs=975x0",
-        "https://sun9-85.vkuserphoto.ru/s/v1/ig2/RBRnZ3LRnHVqpgYVFj_dmfIiqAaQi77_ic8VLm_kqfMVC9HQ0YFTIGH91pCzPDakxa-HNX-eQo22rGI5dTLc8mse.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x241,360x361,480x481,540x542,640x642,720x722,976x979&from=bu&cs=976x0",
-        "https://sun9-65.vkuserphoto.ru/s/v1/ig2/HKBkOwl9wxCD09oXJ4zK93kjXvRgIGFcerAs9rjbEz2LIxk49dubAznfcHT4zskhFEYO-nL3zingN9Acdtuofa3MUJws4w.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x160,240x240,360x360,480x480,540x540,640x640,720x720,984x984&from=bu&cs=984x0",
-        "https://sun9-68.vkuserphoto.ru/s/v1/ig2/PFuqdZkLVBMH6cHRmeWIMlnIVTt7xvMuIvDIS0wJJoZZX-s6-tRZTLg-Gies_Hb5cd04TIAG_VP-JygG1QVW25MP.jpg?quality=96&as=32x32,48x48,72x72,108x108,160x161,240x241,360x361,480x482,540x542,640x643,720x723,979x983&from=bu&cs=979x0"
+        "https://sun9-38.vkuserphoto.ru/s/v1/ig2/kxLS84lKBeFvCm0BLrhRgTHux0cntWW8XsBnGqF8Qk_DRdTFfin2huNbxVVGrX_eineZSS93nkcO-XSidA6bT7pZ.jpg?quality=96&as=32x35,48x52,72x78,108x117,160x174,240x260,360x390,480x521,540x586,640x694,720x781,1080x1171,1112x1206&from=bu&cs=1112x0"
       ],
-      "added_at": "2026-11-28T02:12:31.923613+00:00"
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
     },
     {
-      "id": "vk_ygapchik_556449",
+      "id": "vk_ostroumor_872387",
+      "source_id": "vk_ostroumor",
+      "type": "text",
+      "content": "Советский анекдот: Мальчик: \"Дайте, пожалуйста, килограмм мяса.\"\n— Продавец: \"Мяса нет!\"\n— Мальчик: \"Но ведь на вашем магазине написано 'Мясо'.\"\n— Продавец: \"Мало ли что где написано! У меня на сарае написано 'х..й', а там дрова!\"",
+      "rating": 17,
+      "original_url": "https://vk.com/wall-93463988_872387",
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
+    },
+    {
+      "id": "vk_prikol_sms_smex_394300",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 29,
+      "original_url": "https://vk.com/wall-83492255_394300",
+      "images": [
+        "https://sun9-9.vkuserphoto.ru/s/v1/ig2/CkkuvoxttZJhZ32sHTBYUfcIkaNadf9nQwiYz-VumFRCX5NfESXSJb2qhEikuxFf6F3pdrVpUzBt_MMZtFOeutX4.jpg?quality=96&as=32x37,48x55,72x83,108x124,160x184,240x276,360x414,480x552,540x621,640x736,720x828,1080x1242,1206x1387&from=bu&cs=1206x0"
+      ],
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
+    },
+    {
+      "id": "vk_ygapchik_556466",
       "source_id": "vk_ygapchik",
       "type": "image",
       "content": "",
-      "rating": 3,
-      "original_url": "https://vk.com/wall-59595086_556449",
+      "rating": 1,
+      "original_url": "https://vk.com/wall-59595086_556466",
       "images": [
-        "https://sun9-39.vkuserphoto.ru/s/v1/ig2/B6J5Avq8Xe0YqOe6yn-HsPLfWuybgCM5uI6sCRvkn5vYZtazeAv9dZX46mVNFpEncebRBNwamZnN841z88u5zOkgoKYroQ.jpg?quality=95&as=32x43,48x64,72x96,108x144,160x214,240x321,360x481,480x642,540x722,640x855,720x962,808x1080&from=bu&cs=808x0"
+        "https://sun9-51.vkuserphoto.ru/s/v1/ig2/GN8AT-LIqkvAPDooMwjZeVJL2YgevsEICbOgsWKyZ4yP1we8wOGXtaTC2tgy-lrNS9Cv3truvhmh5z-dm0rAYRSJ.jpg?quality=95&as=32x21,48x31,72x47,108x70,160x104,240x156,360x234,480x312,540x351,640x416,680x442&from=bu&cs=680x0"
       ],
-      "added_at": "2026-11-28T02:12:31.923613+00:00"
+      "added_at": "2026-11-28T03:47:35.030309+00:00"
     }
   ]
 }
