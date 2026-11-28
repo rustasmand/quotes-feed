@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-28T05:51:33.311662+00:00",
+  "updated_at": "2026-11-28T06:55:37.891777+00:00",
   "sources": [
     {
       "id": "bashorg_rf",
@@ -54,51 +54,87 @@
   ],
   "quotes": [
     {
-      "id": "vk_prikol_sms_smex_394328",
+      "id": "vk_prikol_sms_smex_394302",
       "source_id": "vk_prikol_sms_smex",
       "type": "image",
       "content": "",
-      "rating": 0,
-      "original_url": "https://vk.com/wall-83492255_394328",
+      "rating": 17,
+      "original_url": "https://vk.com/wall-83492255_394302",
       "images": [
-        "https://sun9-48.vkuserphoto.ru/s/v1/ig2/k9BxJ7JK5an2Tu6mbUGmMSWTS9EXS-xYkJ_oeeo9p5ft_eJRp9qD9X3iHti_4sNyIlTanFcjo6U7myBSb2irScYlfASZYA.jpg?quality=96&as=32x43,48x64,72x96,108x144,160x213,240x320,360x480,451x601&from=bu&cs=451x0"
+        "https://sun9-7.vkuserphoto.ru/s/v1/ig2/Ga6fFfiZyKt_Oe6Xp1YiXsFqi9Vbw2sqP_IpgNF_rWrAG8NhnTn1_N84TmdVcAKO-_1_WMc80BuXqEWN8hCV2vR5.jpg?quality=96&as=32x27,48x41,72x61,108x92,160x136,240x205,360x307,480x409,540x460,640x546,720x614,1080x921,1280x1091,1440x1227,1999x1704&from=bu&cs=1999x0"
       ],
-      "added_at": "2026-11-28T05:51:33.311662+00:00"
+      "added_at": "2026-11-28T06:55:37.891777+00:00"
     },
     {
-      "id": "vk_ygapchik_556496",
-      "source_id": "vk_ygapchik",
-      "type": "image",
-      "content": "",
-      "rating": 11,
-      "original_url": "https://vk.com/wall-59595086_556496",
-      "images": [
-        "https://sun9-9.vkuserphoto.ru/s/v1/ig2/YKZwUE9mkFsiBO-AvYU9R5KVHog-pAFhAp4-nELf6JE4jU8SeAhE80BfgPDCbmqJXWkRB_3eFHGqaxbtwmhzJyOT.jpg?quality=95&as=32x45,48x67,72x101,108x151,160x224,240x336,360x504,480x672,540x756,640x896,720x1008,808x1131&from=bu&cs=808x0"
-      ],
-      "added_at": "2026-11-28T05:51:33.311662+00:00"
-    },
-    {
-      "id": "vk_smeh_u_rechki_159918",
+      "id": "vk_smeh_u_rechki_159880",
       "source_id": "vk_smeh_u_rechki",
       "type": "mixed",
       "content": "#Смехуречки #Приколы #Смех #Юмор #Ржака",
-      "rating": 1,
-      "original_url": "https://vk.com/wall-146746714_159918",
+      "rating": 9,
+      "original_url": "https://vk.com/wall-146746714_159880",
       "images": [
-        "https://sun9-8.vkuserphoto.ru/s/v1/ig2/VOMmsx3eM0TMuRVXe6KT5Op0pWQl4-sikPzv-FUMxQ5vyDh63Aj4zBwhxBYluLG_K4tCc29jdJ2h2ErpfRYmcrxN.jpg?quality=96&as=32x16,48x25,72x37,108x55,160x82,240x123,360x184,480x246,540x276,608x311&from=bu&cs=608x0"
+        "https://sun9-87.vkuserphoto.ru/s/v1/ig2/iC-egx8ZAOfoSR070fZGvIpbVZjRBK31DT-Zl62rLDuQ7Ct2nMxOy2p6VkPwWZBO5PbDK3jQeV1qBx_ywydqjRBL.jpg?quality=96&as=32x32,48x48,72x72,108x107,160x159,240x239,360x358,480x477,540x537,640x636,714x710&from=bu&cs=714x0"
       ],
-      "added_at": "2026-11-28T05:51:33.311662+00:00"
+      "added_at": "2026-11-28T06:55:37.891777+00:00"
     },
     {
-      "id": "tg_ithumor_16183",
+      "id": "vk_prikol_sms_smex_394315",
+      "source_id": "vk_prikol_sms_smex",
+      "type": "image",
+      "content": "",
+      "rating": 2,
+      "original_url": "https://vk.com/wall-83492255_394315",
+      "images": [
+        "https://sun9-82.vkuserphoto.ru/s/v1/ig2/-8y9uw4whHNAPv5rn0JY_hKMJ3iMCgQ7r58QKghDAvSKifH2JhebYIgqBXUkt5Z3p_6RzWOE5H4gAcW3f4a7V5bA.jpg?quality=96&as=32x46,48x69,72x103,108x155,160x229,240x344,360x515,480x687,503x720&from=bu&cs=503x0"
+      ],
+      "added_at": "2026-11-28T06:55:37.891777+00:00"
+    },
+    {
+      "id": "vk_ygapchik_556512",
+      "source_id": "vk_ygapchik",
+      "type": "image",
+      "content": "",
+      "rating": 12,
+      "original_url": "https://vk.com/wall-59595086_556512",
+      "images": [
+        "https://sun9-63.vkuserphoto.ru/s/v1/ig2/K07yqiyrz0PUK58g2btpa1IKg_qrK2wINBvBgEdkJrK92ijHism63t4dvIrgD83xeJEYNA7Ot2S7K0YvL3ckc8vOnk1aUg.jpg?quality=95&as=32x41,48x62,72x93,108x140,160x207,240x311,360x466,480x622,540x700,640x829,720x933,808x1047&from=bu&cs=808x0"
+      ],
+      "added_at": "2026-11-28T06:55:37.891777+00:00"
+    },
+    {
+      "id": "tg_ithumor_16178",
       "source_id": "tg_ithumor",
       "content": "",
-      "rating": 1303,
+      "rating": 10666,
       "images": [
-        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16183.jpg"
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16178.jpg"
       ],
-      "original_url": "https://t.me/ithumor/16183",
-      "added_at": "2026-11-28T05:51:33.311662+00:00",
+      "original_url": "https://t.me/ithumor/16178",
+      "added_at": "2026-11-28T06:55:37.891777+00:00",
+      "type": "image"
+    },
+    {
+      "id": "vk_jokesss_422145",
+      "source_id": "vk_jokesss",
+      "type": "image",
+      "content": "",
+      "rating": 11,
+      "original_url": "https://vk.com/wall-28468381_422145",
+      "images": [
+        "https://sun9-56.vkuserphoto.ru/s/v1/ig2/RPSFwDifWH-wSf9zjniorMTqaVai3lg104JIFQ3cwvtVdmSZZbi07M0FyeAYZLR7aIc96eOPAPhUKKUSYgZUE6bp.jpg?quality=95&crop=0,0,1080,1134&as=32x34,48x50,72x76,108x113,160x168,240x252,360x378,480x504,540x567,640x672,720x756,1080x1134&from=bu&cs=1080x0"
+      ],
+      "added_at": "2026-11-28T06:55:37.891777+00:00"
+    },
+    {
+      "id": "tg_ithumor_16173",
+      "source_id": "tg_ithumor",
+      "content": "",
+      "rating": 12393,
+      "images": [
+        "https://quotes-api.rustasmand.workers.dev/images/tg_ithumor_16173.jpg"
+      ],
+      "original_url": "https://t.me/ithumor/16173",
+      "added_at": "2026-11-28T06:55:37.891777+00:00",
       "type": "image"
     }
   ]
